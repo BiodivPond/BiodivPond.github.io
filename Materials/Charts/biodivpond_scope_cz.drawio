@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
+  <diagram name="Page-1" id="6hy44YJhBm0mqDkQwx__">
+    <mxGraphModel dx="1209" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DqxGwUrQt97cshvQzTpc-1" value="" style="ellipse;fillColor=#00335D;opacity=60;strokeColor=none;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="530" y="80" width="500" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="DqxGwUrQt97cshvQzTpc-2" value="" style="ellipse;fillColor=#97BD0F;opacity=60;strokeColor=none;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="179.5" y="130" width="500" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="DqxGwUrQt97cshvQzTpc-3" value="" style="ellipse;fillColor=#01ABAB;opacity=60;strokeColor=none;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="500" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="DqxGwUrQt97cshvQzTpc-4" value="Obojživelníci" style="text;fontSize=48;align=center;verticalAlign=middle;html=1;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="275" y="220" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DqxGwUrQt97cshvQzTpc-5" value="Vodní bezobratlí" style="text;fontSize=48;align=center;verticalAlign=middle;html=1;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="262.5" y="550" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DqxGwUrQt97cshvQzTpc-6" value="Letouni" style="text;fontSize=48;align=center;verticalAlign=middle;html=1;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="740" y="245" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DqxGwUrQt97cshvQzTpc-7" value="eDNA" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=36;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="372.5" y="394" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DqxGwUrQt97cshvQzTpc-8" value="Pasivní&lt;br&gt;akustický&lt;br&gt;monitoring" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=25;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="589" y="241.75" width="39.5" height="38.25" as="geometry" />
+        </mxCell>
+        <mxCell id="DqxGwUrQt97cshvQzTpc-9" value="Tradiční inventarizace" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=25;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="412.5" y="460" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DqxGwUrQt97cshvQzTpc-10" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;Občanská věda&lt;/span&gt;" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="355" y="340" width="40" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
