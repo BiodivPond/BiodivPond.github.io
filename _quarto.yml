@@ -6,10 +6,10 @@ website:
   title: "BiodivPond"
   site-url: https://biodivpond.github.io//
   repo-url: https://github.com/BiodivPond/
-  favicon: images/favicon-aopk.png
+  favicon: Materials/Logos/biodivpond_logo.png
 
   navbar:
-    logo: images/biodivpond_logo.png
+    logo: Materials/Logos/biodivpond_logo.png
     left:
       - href: index.qmd
         text: About
@@ -22,7 +22,7 @@ format:
     theme: cosmo
     toc: true
     title-block-banner: true
-    title-block-logo: docs/images/logo-aopk.svg
+    title-block-logo: Materials/Logos/biodivpond_logo.png
 
 extra-files:
   - styles.css
