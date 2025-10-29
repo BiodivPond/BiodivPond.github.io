@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "BiodivPond"
+  site-url: https://biodivpond.github.io//
+  repo-url: https://github.com/BiodivPond/
+  favicon: images/favicon-aopk.png
+
+  navbar:
+    logo: images/biodivpond_logo.png
+    left:
+      - href: index.qmd
+        text: About
+    right:
+      - href: https://aopk.gov.cz/
+        text: AOPK ČR
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    title-block-banner: true
+    title-block-logo: docs/images/logo-aopk.svg
+
+extra-files:
+  - styles.css
