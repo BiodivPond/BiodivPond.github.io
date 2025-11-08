@@ -53,13 +53,14 @@ world <- ne_countries(scale = "medium", returnclass = "sf")
 
 # --- Select European + adjacent regions (Turkey + Caucasus) ---
 countries_europe_extended <- c(
-  "Ireland", "Spain", "Portugal", "France", "United Kingdom", "Belgium", "Netherlands",
+  "Ireland", "Spain", #"Portugal", #"France", 
+  "United Kingdom", "Belgium", #"Netherlands",
   "Luxembourg", "Germany", "Switzerland", "Austria", "Czechia", "Poland", "Slovakia",
   "Hungary", "Slovenia", "Croatia", "Bosnia and Herzegovina", "Serbia", "Montenegro",
   "Kosovo", "North Macedonia", "Albania", "Greece", "Bulgaria", "Romania", "Moldova",
   "Ukraine", "Belarus", "Lithuania", "Latvia", "Estonia", "Norway", "Sweden", "Finland",
   "Denmark", "Iceland", "Italy", "Malta", "Turkey", "Georgia", "Armenia", "Azerbaijan",
-  "Russia", "Morocco", "Algeria", "Tunisia", "Libya", "Egypt", "Republic of Serbia"
+  "Russia", "Morocco", "Algeria", "Tunisia", "Libya", "Egypt", "Republic of Serbia", "Israel"
 )
 
 europe_ext <- world %>% 
@@ -100,14 +101,18 @@ countries <-
   world %>%
   dplyr::filter(admin %in% target_countries) %>%
   dplyr::filter(
-    continent == "Europe"
+    continent == "Europe" | continent == "Asia"
+  ) %>%
+  sf::st_crop(
+    .,
+    europe_bbox
   )
 
 target_bbox <-
   countries %>%
   sf::st_bbox() %>%
   sf::st_as_sfc() %>%        
-  sf::st_buffer(500000) %>%
+  sf::st_buffer(150000) %>%
   sf::st_bbox()
 
 target_bbox <- st_transform(target_bbox, crs_europe)
