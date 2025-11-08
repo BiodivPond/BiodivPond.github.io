@@ -13,6 +13,15 @@ website:
     left:
       - href: index.qmd
         text: About
+      - href: partners.qmd
+        text: Partners
+      - href: events.qmd
+        text: Events
+      - href: outcomes.qmd
+        text: Outcomes
+      - href: outreach.qmd
+        text: Outreach
+      
     right:
       - href: https://aopk.gov.cz/
         text: AOPK ČR
