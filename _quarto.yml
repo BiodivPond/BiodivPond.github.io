@@ -7,8 +7,9 @@ website:
   site-url: https://biodivpond.github.io
   repo-url: https://github.com/BiodivPond/
   favicon: Materials/Logos/biodivpond_logo_round.png
+
   navbar:
-    logo: Materials/Logos/biodivpond_logo.png
+    logo: Materials/Logos/biodivpond_logo_round.png
     left:
       - href: about.qmd
         text: About
@@ -22,7 +23,7 @@ website:
         text: Outreach
     right:
       - href: https://aopk.gov.cz/
-        text: AOPK ČR
+        text: NCA CR
 
 page-footer:
   left: "&copy; Copyright 2025, BiodivPond"
@@ -35,7 +36,5 @@ format:
     theme: cosmo
     toc: true
     title-block-banner: true
-    title-block-logo: Materials/Logos/biodivpond_logo.png
-
-extra-files:
-  - styles.css
+    title-block-logo: Materials/Logos/biodivpond_logo_round.png
+    css: styles.css
