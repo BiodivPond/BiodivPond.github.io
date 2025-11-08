@@ -22,5 +22,28 @@ Innovative methods –⁠ including environmental DNA (eDNA) and passive acousti
 
 **The BiodivPond pilot aims to integrate pond monitoring approaches into a harmonised European initiative. By combining eDNA, PAM, and citizen-science-based methods, it will support the development of standardised, effective biodiversity monitoring schemes. This effort will fill critical knowledge gaps and help achieve the targets of the Nature Restoration Law through better data on pond ecosystems across landscapes.**
 
+----------
 
+<br>
+
+Biodiversa+ is the European Biodiversity Partnership that supports excellent research on biodiversity with an impact on policy and society. Co-developed and launched in 2021 by BiodivERsA and the European Commission as part of the EU Biodiversity Strategy for 2030, it contributes to the ambition that by 2030, nature in Europe is on a path to recovery, and by 2050, people are living in harmony with nature.
+
+[www.biodiversa.eu/](https://www.biodiversa.eu/)
+
+:::: {.columns}
+
+::: {.column width=20%}
 :::
+
+::: {.column width=30%}
+![](/Materials/Logos/biodiversa_logo.jpeg)
+:::
+
+::: {.column width=20%}
+![](/Materials/Logos/biodiversa_logo.jpeg)
+:::
+
+::: {.column width=30%}
+:::
+
+::::
