@@ -1,27 +1,65 @@
-/* Základní pozadí a text */
+/* ---------- Base / typography ---------- */
 body {
   background-color: #ffffff;
   color: #333333;
-  font-family: "Helvetica, Arial, sans-serif";
+  /* system font stack + fallbacks */
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.58;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
 }
 
-/* Nadpisy */
+/* Headings color */
 h1, h2, h3, h4 {
   color: #4C7D31;
+  margin-top: 1.1em;
+  margin-bottom: 0.45em;
 }
 
-/* Navbar */
-.navbar {
-  background-color: #4C7D31;
+/* ---------- Paragraph justification (apply broadly) ---------- */
+/* target common Quarto/Bootstrap content wrappers + plain paragraphs */
+.quarto-body p,
+.quarto-body .lead,
+.article p,
+.prose p,
+.page p,
+p {
+  text-align: justify !important;          /* force justification */
+  text-justify: inter-word;                /* better justification behavior */
+  hyphens: auto;                           /* allow hyphenation */
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  word-wrap: break-word;
+  margin-bottom: 1em;
+  line-height: 1.65;
 }
+
+/* Do not justify very short captions, small utility text or nav text */
+figcaption,
+.caption,
+small,
+.navbar,
+.footer,
+.site-footer,
+.page-footer,
 .navbar a {
-  color: #ffffff !important;
-}
-.navbar a:hover {
-  color: #cce0b3 !important;
+  text-align: left !important;
 }
 
-/* Odkazy v textu */
+/* On small screens, disable full justification to avoid large gaps ("rivers") */
+@media (max-width: 700px) {
+  .quarto-body p,
+  .quarto-body .lead,
+  .article p,
+  .prose p,
+  .page p,
+  p {
+    text-align: left !important;
+  }
+}
+
+
+/* ---------- Links ---------- */
 a {
   color: #4C7D31;
   text-decoration: none;
@@ -30,19 +68,71 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Tlačítka */
+/* ---------- Navbar (higher specificity for theme overrides) ---------- */
+.navbar,
+.navbar.navbar-default,
+.navbar.navbar-inverse {
+  background-color: #4C7D31 !important;
+  border-color: transparent !important;
+}
+.navbar a,
+.navbar .nav-link,
+.navbar .navbar-brand {
+  color: #ffffff !important;
+}
+.navbar a:hover,
+.navbar .nav-link:hover,
+.navbar .navbar-brand:hover {
+  color: #cce0b3 !important;
+}
+
+/* ---------- Buttons ---------- */
 .btn-primary {
-  background-color: #4C7D31;
-  border-color: #4C7D31;
-  color: #ffffff;
+  background-color: #4C7D31 !important;
+  border-color: #4C7D31 !important;
+  color: #ffffff !important;
 }
 .btn-primary:hover {
-  background-color: #3e6627;
-  border-color: #3e6627;
+  background-color: #3e6627 !important;
+  border-color: #3e6627 !important;
 }
+
+/* ---------- Title block / Logo ---------- */
+/* Works with Quarto's title-block-banner + title-block-logo structure.
+   The idea: keep logo vertically centered with the title and scale it responsively. */
+.title-block {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  padding: 1rem 0;
+}
+.title-block .title-block-logo img,
+.title-block-logo img {
+  max-height: 120px;      /* tune this to match the visual scale of your title */
+  width: auto;
+  display: block;
+}
+
+/* If you use a custom fixed logo, remove fixed positioning and use the title-block rules above */
 .logo-header {
-  position: fixed;
-  top: 25px;
-  left: 25px;
+  position: static; /* avoid overlaying content; use title-block instead */
+  top: auto;
+  left: auto;
   z-index: 1000;
+}
+
+/* On very small screens make logo smaller */
+@media (max-width: 700px) {
+  .title-block .title-block-logo img,
+  .title-block-logo img {
+    max-height: 64px;
+  }
+}
+
+/* ---------- Footer ---------- */
+.page-footer {
+  color: #666666;
+  font-size: 0.95rem;
+  padding-top: 1rem;
+  border-top: 1px solid #eee;
 }
