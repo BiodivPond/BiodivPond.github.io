@@ -2,17 +2,17 @@
 ## 2025 ----
 map_partners <- 
   ggplot() +
-  geom_sf(data = world, fill = "gray98", color = "gray70", size = 0.3) +
-  #geom_sf(data = countries, fill = "blue", color = "gray70", size = 0.3) +
+  geom_sf(data = world, fill = "gray85", color = "white", size = 0.2) +
+  geom_sf(data = countries, fill = "#103b60", color = "white", size = 0.2) +
   coord_sf(
     xlim = c(target_bbox["xmin"], target_bbox["xmax"]),
     ylim = c(target_bbox["ymin"], target_bbox["ymax"]),
     expand = FALSE
   ) +
-  theme_minimal(base_family = "Roboto") +
+  theme_void() +
   theme(
-    panel.background  = element_rect(fill = "#EAF2F8", color = NA),
-    panel.grid.major  = element_line(color = "white"),
+    #panel.background  = element_rect(fill = "#EAF2F8", color = NA),
+    #panel.grid.major  = element_line(color = "white"),
     plot.title        = element_text(size = 16, face = "bold", hjust = 0.5),
     # Legend anchored inside the map near the right edge
     legend.position   = c(1, 0.55),      # inside, vertical middle
