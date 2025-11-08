@@ -1,0 +1,159 @@
+/* ------------------------------
+   Global / base
+   ------------------------------ */
+body {
+  background-color: #ffffff;
+  color: #333333;
+  font-family: "Helvetica", "Arial", sans-serif;
+  line-height: 1.6;
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+  color: #4C7D31; /* green used in brand */
+  margin-top: 1.2em;
+  margin-bottom: 0.4em;
+  font-weight: 600;
+}
+
+/* ------------------------------
+   Header with logo and title
+   (replace fixed logo approach)
+   ------------------------------ */
+/* Quarto's title block / banner: align logo and heading */
+.title-block {
+  background: transparent;
+  padding: 0.75rem 1.25rem;
+}
+
+/* The element that holds the logo in title block (Quarto uses .title-block-logo) */
+.title-block-logo img,
+.site-logo img {
+  height: 120px;            /* tuned to your image proportions */
+  width: auto;
+  display: block;
+  margin-right: 1rem;
+}
+
+/* Create a horizontal header layout for title + logo */
+.header-flex {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0.5rem 1rem;
+}
+
+/* Title styling next to the logo */
+.header-flex .site-title {
+  font-size: 3.2rem;        /* large title to match logo scale */
+  color: #2fa6c2;           /* bluish color similar to your wordmark */
+  font-weight: 500;
+  margin: 0;
+  line-height: 1;
+}
+
+/* Smaller screens: stack logo above title */
+@media (max-width: 700px) {
+  .header-flex {
+    flex-direction: column;
+    text-align: center;
+  }
+  .title-block-logo img { height: 90px; }
+  .header-flex .site-title { font-size: 2rem; }
+}
+
+/* ------------------------------
+   Navbar
+   ------------------------------ */
+.navbar, .navbar .navbar-nav {
+  background-color: #4C7D31; /* keep brand green */
+}
+.navbar a {
+  color: #ffffff !important;
+}
+.navbar a:hover {
+  color: #cce0b3 !important;
+}
+
+/* ------------------------------
+   Paragraph justification (works with Quarto/Bootstrap)
+   - uses more specific selectors to override theme styles
+   - enables hyphenation so justification looks good
+   ------------------------------ */
+
+/* Apply to main content areas Quarto uses */
+.quarto-body p,
+.page .quarto-body p,
+.post p,
+.article p,
+.content p,
+main p {
+  text-align: justify !important;       /* force override if theme sets left */
+  text-justify: inter-word;
+  -webkit-text-size-adjust: 100%;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+  orphans: 2;
+  widows: 2;
+}
+
+/* Also justify list paragraphs inside callouts/cards */
+.quarto-body .callout p,
+.quarto-body .card p,
+.quarto-body .lead {
+  text-align: justify !important;
+  hyphens: auto;
+}
+
+/* Note: very short lines (narrow columns) won't show full justification,
+   and the browser will not add large gaps if there's only one short line. */
+
+/* ------------------------------
+   Links and buttons
+   ------------------------------ */
+a {
+  color: #4C7D31;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* Buttons (bootstrap override) */
+.btn-primary {
+  background-color: #4C7D31;
+  border-color: #4C7D31;
+  color: #ffffff;
+}
+.btn-primary:hover {
+  background-color: #3e6627;
+  border-color: #3e6627;
+}
+
+/* ------------------------------
+   Footer
+   ------------------------------ */
+.page-footer {
+  color: #333333;
+  font-size: 0.95rem;
+  padding: 1rem 0.5rem;
+  background: transparent;
+}
+
+/* ------------------------------
+   Utility tweaks
+   ------------------------------ */
+/* Make images inside content responsive */
+.quarto-body img, .page img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Small: reduce big gaps that can harm header alignment */
+.title-block, .page-header {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
