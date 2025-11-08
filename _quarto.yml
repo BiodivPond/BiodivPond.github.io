@@ -4,14 +4,13 @@ project:
 
 website:
   title: "BiodivPond"
-  site-url: https://biodivpond.github.io//
+  site-url: https://biodivpond.github.io
   repo-url: https://github.com/BiodivPond/
-  favicon: Materials/Logos/biodivpond_logo.png
-
+  favicon: Materials/Logos/biodivpond_logo_round.png
   navbar:
     logo: Materials/Logos/biodivpond_logo.png
     left:
-      - href: index.qmd
+      - href: about.qmd
         text: About
       - href: partners.qmd
         text: Partners
@@ -21,10 +20,15 @@ website:
         text: Outcomes
       - href: outreach.qmd
         text: Outreach
-      
     right:
       - href: https://aopk.gov.cz/
         text: AOPK ČR
+
+page-footer:
+  left: "&copy; Copyright 2025, BiodivPond"
+  right: "This page is built with ❤💚🐸 and [Quarto](https://quarto.org/) by Jonáš Gaigr."
+  issue-url: https://github.com/BiodivPond/BiodivPond.github.io/issues
+  repo-actions: [source, issue]
 
 format:
   html:
