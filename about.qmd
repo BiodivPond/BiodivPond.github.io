@@ -31,19 +31,14 @@ Biodiversa+ is the European Biodiversity Partnership that supports excellent res
 [www.biodiversa.eu/](https://www.biodiversa.eu/)
 
 :::: {.columns}
-
 ::: {.column width=20%}
 :::
-
-::: {.column width=30%}
-![](/Materials/Logos/biodiversa_logo.jpeg)
+::: {.column width=35%}
+![](/Materials/Logos/biodiversa_logo.jpeg){.partner-logo}
 :::
-
-::: {.column width=20%}
-![](/Materials/Logos/biodiversa_logo.jpeg)
+::: {.column width=15%}
+![](/Materials/Logos/eu_co_funded_en.jpg){.partner-logo}
 :::
-
 ::: {.column width=30%}
 :::
-
 ::::

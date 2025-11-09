@@ -17,9 +17,22 @@ date-modified: last-modified
 sidebar: false
 ---
 
-::: {#hero-heading}
+:::: {#hero-heading}
+::: {.map-card}
 
-![](/Outputs/Maps/Map_biodivpond_partners.png)
+::: {.map-card-text}
+### Our partners across Europe
+This project involves research institutions, NGOs, and nature conservation agencies working collaboratively to protect biodiversity in ponds and wetlands.
+:::
 
+::: {.map-card-image}
+<div class="map-wrapper">
+<img src="/Outputs/Maps/Map_biodivpond_partners.png" class="map" alt="BiodivPond partner sites map">
+</div>
+:::
 
 :::
+
+
+
+::::
