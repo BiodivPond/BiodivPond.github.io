@@ -4,13 +4,6 @@ about:
   id: hero-heading
   template: solana
   image-shape: rounded
-  links:
-    - icon: link
-      text: Website
-      href: http://biodivpond.github.io/
-    - icon: github
-      text: Github
-      href: https://github.com/BiodivPond
 date: 2025/10/29
 date-format: long
 date-modified: last-modified

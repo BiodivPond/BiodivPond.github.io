@@ -4,13 +4,6 @@ about:
   id: hero-heading
   template: solana
   image-shape: rounded
-  links:
-    - icon: link
-      text: Website
-      href: http://biodivpond.github.io/
-    - icon: github
-      text: Github
-      href: https://github.com/BiodivPond
 date: 2025/10/29
 date-format: long
 date-modified: last-modified
@@ -18,6 +11,8 @@ sidebar: false
 ---
 
 ::: {#hero-heading}
+
+![](/images/bomvar_stribro.jpeg)
 
 BiodivPond is a pilot monitoring initiative supported by Biodiversa+ for the period 2026 to 2028. The full title is "Biodiversity monitoring of ponds: evaluating the applicability of novel methods and identification of obstacles to wide use".
 

@@ -4,13 +4,6 @@ about:
   id: hero-heading
   template: solana
   image-shape: rounded
-  links:
-    - icon: link
-      text: Website
-      href: http://biodivpond.github.io/
-    - icon: github
-      text: Github
-      href: https://github.com/BiodivPond
 date: 2025/10/29
 date-format: long
 date-modified: last-modified
@@ -19,10 +12,12 @@ sidebar: false
 
 :::: {#hero-heading}
 ::: {.map-card}
-
 ::: {.map-card-text}
-### Our partners across Europe
-This project involves research institutions, NGOs, and nature conservation agencies working collaboratively to protect biodiversity in ponds and wetlands.
+### Duration
+2016 - 2018
+
+### Active partners involved
+The pilot is coordinated by the Nature Conservation Agency of the Czech Republic and involves partners from thirteen countries: Belgium (Flanders), Bulgaria, Czechia, Croatia, Denmark, Finland, Ireland, Israel, Italy (Autonomous Province of Bolzano), the Netherlands, Slovakia, Spain (Catalonia), and Sweden.
 :::
 
 ::: {.map-card-image}
