@@ -112,7 +112,7 @@ target_bbox <-
   countries %>%
   sf::st_bbox() %>%
   sf::st_as_sfc() %>%        
-  sf::st_buffer(150000) %>%
+  sf::st_buffer(300000) %>%
   sf::st_bbox()
 
 target_bbox <- st_transform(target_bbox, crs_europe)
