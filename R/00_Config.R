@@ -53,7 +53,7 @@ world <- ne_countries(scale = "medium", returnclass = "sf")
 
 # --- Select European + adjacent regions (Turkey + Caucasus) ---
 countries_europe_extended <- c(
-  "Ireland", "Spain", #"Portugal", #"France", 
+  "Ireland", "Spain", "Portugal", #"France", 
   "United Kingdom", "Belgium", #"Netherlands",
   "Luxembourg", "Germany", "Switzerland", "Austria", "Czechia", "Poland", "Slovakia",
   "Hungary", "Slovenia", "Croatia", "Bosnia and Herzegovina", "Serbia", "Montenegro",
