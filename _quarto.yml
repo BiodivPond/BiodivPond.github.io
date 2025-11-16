@@ -13,17 +13,35 @@ website:
     left:
       - href: about.qmd
         text: About
+        
       - href: partners.qmd
         text: Partners
-      - href: events.qmd
-        text: Events
+      
+      - text: Events
+        menu: 
+          - text: International workshop 2026
+          - href: events.qmd
+          - text: International workshop 2027
+          - href: events.qmd
+          - text: National workshops
+          - href: events.qmd
+          
       - href: outcomes.qmd
         text: Outcomes
+      
       - href: outreach.qmd
         text: Outreach
+        menu: 
+          - text: Blog posts
+          - href: outreach.qmd
+          - text: Blog posts
+          - href: outreach.qmd
+          
     right:
       - href: https://aopk.gov.cz/web/en
         text: NCA CR
+      - href: https://www.biodiversa.eu/
+        text: Biodiversa+
 
 page-footer:
   left: "&copy; Copyright 2025, BiodivPond"
