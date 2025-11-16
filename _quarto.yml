@@ -22,7 +22,7 @@ website:
       - href: outreach.qmd
         text: Outreach
     right:
-      - href: https://aopk.gov.cz/
+      - href: https://aopk.gov.cz/web/en
         text: NCA CR
 
 page-footer:
