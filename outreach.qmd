@@ -11,7 +11,6 @@ sidebar: false
 ---
 
 ::: {#hero-heading}
-
 ![](/images/bomvar_stribro.jpeg)
 
 BiodivPond is a pilot monitoring initiative supported by Biodiversa+ for the period 2026 to 2028. The full title is "Biodiversity monitoring of ponds: evaluating the applicability of novel methods and identification of obstacles to wide use".
