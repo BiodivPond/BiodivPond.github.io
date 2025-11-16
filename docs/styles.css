@@ -110,43 +110,47 @@ a:hover { text-decoration: underline; }
   border-radius: 12px;
   padding: 1rem;
   display: flex;
+  flex-direction: column; /* stack text above image */
   gap: 1rem;
   align-items: flex-start;
   color: #ffffff;
 }
+
 .map-card .map-card-text {
-  flex: 0 0 34%;
-  max-width: 34%;
+  width: 100%;          /* full width */
+  max-width: 100%;
 }
+
 .map-card .map-card-text p,
 .map-card .map-card-text h3,
-.map-card .map-card-text h4 {
-  color: #ffffff;
-  text-align: justify;
-  text-justify: inter-word;
-  hyphens: auto;
+.map-card .map-card-text h4 { 
+  color: #ffffff; 
+  text-align: justify; 
+  text-justify: inter-word; 
+  hyphens: auto; 
 }
+
 .map-card .map-card-image {
-  flex: 1 1 66%;
-  max-width: 66%;
+  width: 100%;          /* full width */
+  max-width: 100%;
 }
+
 .map-card .map-card-image .map-wrapper {
   border-radius: 8px;
   overflow: hidden;
 }
+
 .map-card .map-card-image img {
   display: block;
   width: 100%;
   border-radius: 8px;
-  box-shadow: 0 6px 18px rgba(0,0,0,0.18);
+  box-shadow: 0 0px 0px rgba(0,0,0,0.18);
 }
+
+/* Mobile stays the same (but no changes needed now) */
 @media (max-width: 900px) {
   .map-card {
     flex-direction: column;
   }
-  .map-card .map-card-text,
-  .map-card .map-card-image {
-    max-width: 100%;
-    flex: 1 1 100%;
-  }
 }
+
