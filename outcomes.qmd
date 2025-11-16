@@ -11,33 +11,26 @@ sidebar: false
 ---
 
 ::: {#hero-heading}
+![](/images/logo_variegata_alpestris.png)
 
-BiodivPond is a pilot monitoring initiative supported by Biodiversa+ for the period 2026 to 2028. The full title is "Biodiversity monitoring of ponds: evaluating the applicability of novel methods and identification of obstacles to wide use".
+**Deliverable 1: Biodiversity monitoring report and method evaluation**  
+A comprehensive report summarising biodiversity observations (amphibians, fish, aquatic insects, and bats) across all ponds. Includes:
+ – Comparison of eDNA, PAM, and traditional methods
+ – Results of the Triturus cristatus density estimation effort
+ – Evaluation of the inter-lab quality check (ring test)
+ – Recommendations for future use of these methods in routine biodiversity monitoring
+ 
+**Deliverable 2: Citizen science guideline**  
+A practical guideline for designing and managing citizen science schemes focused on pond biodiversity monitoring using eDNA. It outlines a modular participation model adapted to different volunteer profiles, data quality protocols, recruitment and retention strategies, and recommendations for digital infrastructure.
 
-The objectives of the BiodivPond pilot are:
+**Deliverable 3: *Triturus cristatus* s. l. monitoring report**  
+A short technical report summarising the results of the density estimation of *T. cristatus* at core ponds. Includes insights into sampling effort, detection reliability via eDNA, and relevance for conservation status assessment.
 
-1) **Establish a transnational pond monitoring network across Europe:** Each active
-contributor will sample a minimum of 6 ponds (80 in total) during late spring of 2026 for
-biodiversity and key local environmental pond conditions following a highly
-standardised sampling protocol based on traditional methods, eDNA and PAM,
-targeting amphibians, fish, aquatic macro-invertebrates, and bats.
+**Deliverable 4: Core pond dataset**  
+A curated dataset with harmonised, quality-checked biodiversity records from the 80 core ponds sampled by active contributors. Includes both eDNA and acoustic data, as well as metadata on habitat conditions and pressures.
 
-2) **Design and pilot a citizen science-based biodiversity monitoring scheme for ponds across Europe:** All active contributors will collaborate in the development and implementation of a participatory citizen science-based monitoring scheme focusing on amphibians, fish and aquatic macro-invertebrates. The monitoring will follow a standardised field protocol to assess key local environmental pond conditions and to collect samples for the analysis of eDNA. A total of 500 additional ponds are located in different biogeographical regions throughout Europe.
-
-3) **Deliver a shared open-access data infrastructure:** A publicly accessible digital
-repository hosting all genomic (eDNA) and acoustic (PAM) data, including relevant
-metadata and species occurrence information, is operational by the project’s end,
-facilitating transparency and reproducibility.
-
-4) **Operationalise data integration workflows:** A tested and transferable pipeline
-enabling the integration of eDNA and PAM data into national and international
-biodiversity databases, and Europe-wide frameworks is in place and usable by all
-project partners.
-
-5) **Provide user-friendly biodiversity visualisation tools:** Interactive tools and
-dashboards displaying species presence and geographical distributions have been
-developed and made available to stakeholders, including nature managers, policymakers,
-and the public.
+**Deliverable 5: Citizen science pond dataset**  
+A cleaned dataset containing biodiversity data collected from the 500 ponds sampled by the citizen scientists.
 
 
 :::
