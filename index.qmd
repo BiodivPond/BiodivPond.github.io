@@ -1,6 +1,6 @@
 ---
 title: "BiodivPond"
-image: Materials/Logos/biodivpond_logo.png
+image: images/logo_variegata_alpestris_v.png
 about:
   id: hero-heading
   template: solana
