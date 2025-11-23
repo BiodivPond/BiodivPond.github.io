@@ -29,13 +29,12 @@ website:
       - href: outcomes.qmd
         text: Outcomes
       
-      - href: outreach.qmd
-        text: Outreach
+      - text: Outreach
         menu: 
-          - text: Blog posts
           - href: outreach.qmd
-          - text: Blog posts
+            text: Press release 2026
           - href: outreach.qmd
+            text: Blog posts
           
     right:
       - href: https://aopk.gov.cz/web/en

@@ -4,7 +4,7 @@ html, body {
 }
 *, *::before, *::after { box-sizing: inherit; }
 
-/* Základní pozadí a text */
+/* Base background and text */
 body {
   background-color: #ffffff;
   color: #333333;
@@ -14,7 +14,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* Headings */
+/* Headings Color */
 h1, h2, h3, h4 {
   color: #4C7D31;
 }
@@ -47,9 +47,9 @@ main p,
 .navbar.navbar-default,
 .site-navbar {
   background-color: #4C7D31;
-  position: relative;    /* create a predictable stacking context */
-  z-index: 2000;         /* higher than .logo-header (1000) */
-  overflow: visible;     /* allow dropdowns to extend outside the navbar */
+  position: relative;
+  z-index: 2000;
+  overflow: visible;
 }
 .navbar a,
 .site-navbar a {
@@ -62,11 +62,11 @@ main p,
 
 .navbar .dropdown-menu .dropdown-item,
 .site-navbar .dropdown-menu .dropdown-item {
-  color: #ffffff !important;      /* same white text as top-level .navbar a */
-  background-color: #4C7D31;        /* no light card look */
-  padding: 0.5rem 1rem;           /* match top-level spacing */
-  white-space: nowrap;            /* keep each item on one line */
-  font-family: inherit;           /* match navbar font */
+  color: #ffffff !important;
+  background-color: #4C7D31;
+  padding: 0.5rem 1rem;
+  white-space: nowrap;
+  font-family: inherit;
   font-size: 1rem;
 }
 
@@ -123,14 +123,14 @@ a:hover { text-decoration: underline; }
   border-radius: 12px;
   padding: 1rem;
   display: flex;
-  flex-direction: column; /* stack text above image */
+  flex-direction: column;
   gap: 1rem;
   align-items: flex-start;
   color: #ffffff;
 }
 
 .map-card .map-card-text {
-  width: 100%;          /* full width */
+  width: 100%;
   max-width: 100%;
 }
 
@@ -144,7 +144,7 @@ a:hover { text-decoration: underline; }
 }
 
 .map-card .map-card-image {
-  width: 100%;          /* full width */
+  width: 100%;
   max-width: 100%;
 }
 
@@ -160,10 +160,63 @@ a:hover { text-decoration: underline; }
   box-shadow: 0 0px 0px rgba(0,0,0,0.18);
 }
 
-/* Mobile stays the same (but no changes needed now) */
 @media (max-width: 900px) {
   .map-card {
     flex-direction: column;
   }
 }
 
+/* ========================================= */
+/* SPACING & LAYOUT OVERRIDES           */
+/* ========================================= */
+
+/* 1. General Headings & Text (Global) */
+h2, h3, h4 {
+  margin-top: 1.5rem;     /* Tighten space before headers */
+  margin-bottom: 0.5rem;  /* Keep headers close to text below */
+}
+
+p {
+  margin-bottom: 1rem;
+  margin-top: 0;
+}
+
+/* 2. Title Block (The Main Page Header) */
+#title-block-header {
+  margin-top: 0.5rem;           /* Close to navbar */
+  margin-bottom: 0 !important;  /* No space below title container */
+  padding-bottom: 0 !important; /* No padding inside title container */
+}
+
+#title-block-header .title {
+  margin-bottom: 0;             /* Remove margin from the H1 text itself */
+}
+
+/* 3. Dates / Metadata Section */
+#title-block-header .quarto-title-meta {
+  margin-top: 0.5rem;               /* Slight gap from Title */
+  margin-bottom: 0.5rem !important; /* Minimal gap before buttons */
+}
+
+/* 4. Solana Template Specifics (The Image/About Section) */
+/* Removes the default container padding so it slides up to the header */
+.quarto-about-solana {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* Ensures the internal columns (Image and Text) start flush at top */
+.quarto-about-solana .about-entity, 
+.quarto-about-solana .about-contents {
+  margin-top: 0 !important;
+}
+
+/* Ensures the first paragraph inside the About section has no top margin */
+.quarto-about-solana .about-contents > :first-child {
+  margin-top: 0 !important;
+}
+
+/* Removes extra space above the "Website/Github" buttons */
+.quarto-about-solana .about-links {
+  margin-top: 0 !important;
+}
