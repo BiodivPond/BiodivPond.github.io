@@ -1,0 +1,17 @@
+---
+title: "National workshops"
+about:
+  id: hero-heading
+  template: solana
+  image-shape: rounded
+date-modified: last-modified
+sidebar: true
+---
+
+::: {#hero-heading}
+
+## Czechia
+
+### November 2025
+
+:::
