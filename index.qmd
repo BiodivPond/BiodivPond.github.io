@@ -12,7 +12,7 @@ about:
     - icon: github
       text: Github
       href: https://github.com/BiodivPond
-date: 2025/10/29
+date: 2026/01/02
 date-format: long
 date-modified: last-modified
 sidebar: false
