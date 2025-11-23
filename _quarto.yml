@@ -19,12 +19,12 @@ website:
       
       - text: Events
         menu: 
-          - text: International workshop 2026
           - href: events.qmd
-          - text: International workshop 2027
+            text: International workshop 2026
           - href: events.qmd
-          - text: National workshops
-          - href: events.qmd
+            text: International workshop 2027
+          - href: natworkshops.qmd
+            text: National workshops
           
       - href: outcomes.qmd
         text: Outcomes
