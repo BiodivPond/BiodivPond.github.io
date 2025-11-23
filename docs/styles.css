@@ -47,6 +47,9 @@ main p,
 .navbar.navbar-default,
 .site-navbar {
   background-color: #4C7D31;
+  position: relative;    /* create a predictable stacking context */
+  z-index: 2000;         /* higher than .logo-header (1000) */
+  overflow: visible;     /* allow dropdowns to extend outside the navbar */
 }
 .navbar a,
 .site-navbar a {
@@ -55,6 +58,16 @@ main p,
 .navbar a:hover,
 .site-navbar a:hover {
   color: #cce0b3 !important;
+}
+
+.navbar .dropdown-menu .dropdown-item,
+.site-navbar .dropdown-menu .dropdown-item {
+  color: #ffffff !important;      /* same white text as top-level .navbar a */
+  background-color: #4C7D31;        /* no light card look */
+  padding: 0.5rem 1rem;           /* match top-level spacing */
+  white-space: nowrap;            /* keep each item on one line */
+  font-family: inherit;           /* match navbar font */
+  font-size: 1rem;
 }
 
 /* Links */
