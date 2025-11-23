@@ -14,7 +14,7 @@ sidebar: false
 ::: {.map-card}
 ::: {.map-card-text}
 ### Active partners involved
-The pilot is coordinated by the Nature Conservation Agency of the Czech Republic and involves partners from thirteen countries: Belgium (Flanders), Bulgaria, Czechia, Croatia, Denmark, Finland, Ireland, Israel, Italy (Autonomous Province of Bolzano), Portugal the Netherlands, Slovakia, and Sweden.
+The pilot is coordinated by the Nature Conservation Agency of the Czech Republic and involves partners from thirteen countries: Belgium (Flanders), Bulgaria, Czechia, Croatia, Denmark, Finland, Ireland, Israel, Italy (Autonomous Province of Bolzano), Portugal, the Netherlands, Slovakia, and Sweden.
 :::
 ::: {.map-card-image}
 <div class="map-wrapper">
