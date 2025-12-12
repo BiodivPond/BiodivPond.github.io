@@ -112,6 +112,7 @@ a:hover { text-decoration: underline; }
   width: auto;
   object-fit: contain;
 }
+
 @media (max-width: 768px) {
   .columns .column img { max-height: 70px; }
   .columns { flex-wrap: wrap; }
