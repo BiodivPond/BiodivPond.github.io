@@ -70,6 +70,30 @@ main p,
   font-size: 1rem;
 }
 
+/* --- Custom Callout Styles --- */
+
+.callout-red {
+    /* Box appearance */
+    border-left: 5px solid #E34A3E; /* A warning red for the left bar */
+    background-color: #FEEBEA; /* Very light pink background */
+    padding: 1.25rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.callout-red h2, .callout-red h3, .callout-red h4 {
+    color: #A92C23; /* Darker red for the heading text */
+    margin-top: 0 !important;
+    margin-bottom: 0.5rem;
+}
+
+.callout-red p {
+    color: #333333; /* Standard text color inside the box */
+    margin-top: 0;
+}
+
 /* Links */
 a { color: #4C7D31; text-decoration: none; }
 a:hover { text-decoration: underline; }
