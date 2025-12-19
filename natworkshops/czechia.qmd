@@ -1,0 +1,31 @@
+---
+title: "Czechia - November 2025"
+image: "/Materials/Natworkshops/Czechia/Czechia_2025_11_1.jpg"
+about:
+  id: hero-heading
+  template: jolla
+  image-shape: rounded
+  image-width: 420px
+date: 2026/01/02
+date-format: long
+date-modified: last-modified
+sidebar: false
+---
+
+::: {#hero-heading}
+
+The 2025 seminar focused on the critical intersection of amphibian conservation, disease management, and the practical revitalization of wetland ecosystems in the Czech Republic.
+
+A primary concern addressed was the threat of **pathogens**, specifically the "salamander plague" (*Batrachochytrium salamandrivorans* or Bsal). While the Czech Republic remains Bsal-free as of early 2025, the infection is spreading in neighboring Germany. Experts emphasized the urgent need for passive monitoring, strict biosecurity, and cooperation between veterinary authorities and nature conservation agencies to prevent an outbreak among local salamanders and newts.
+
+**Species-specific conservation** was also highlighted, particularly regarding the Natterjack toad (*Epidalea calamita*). An update to its conservation principles is currently underway, involving broad stakeholder cooperation to address threats such as predation and chytridiomycosis.
+
+Significant attention was paid to **infrastructure and road ecology**. Amphibians constitute over 80% of road mortality statistics. The consensus suggests that investing in widespread, cost-effective barrier solutions is more beneficial for local populations (such as the Common Toad) than constructing a limited number of high-tech, expensive barriers. Insights from international research further revealed that newts utilize road underpasses more frequently than frogs, especially during autumn migrations.
+
+The seminar provided a critical look at **wetland management and revitalization**. Preliminary results from South Moravia criticized past practices where pond creation often destroyed specific soil structures or failed to utilize the landscape's revitalization potential. New guidelines now mandate stricter biological assessments to protect sensitive sites like salt marshes and peat soils. Conversely, successful case studies demonstrated how removing old agricultural drainage systems and creating pool cascades in sloping terrain can effectively restore water retention and biodiversity.
+
+Finally, methodological innovations were introduced. The use of **environmental DNA (eDNA)** was praised for its high detection efficiency (99% for Great Crested Newts) and utility in pathogen detection, though it is recommended as a complement to, rather than a replacement for, standard monitoring. Additionally, the assessment system for protected areas (EVL) is being transformed into a semi-automated process using revised indicators—such as water level fluctuation, fish pressure, and vegetation status—to provide continuous data on habitat health.
+
+![](/Materials/Natworkshops/Czechia/Czechia_2025_11_5.jpg)
+
+:::

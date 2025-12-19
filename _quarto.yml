@@ -31,8 +31,8 @@ website:
       
       - text: Outreach
         menu: 
-          - href: outreach.qmd
-            text: Press release 2026
+          #- href: outreach.qmd
+          #  text: Press release 2026
           - href: outreach.qmd
             text: Blog posts
           - href: outreach.qmd

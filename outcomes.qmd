@@ -16,15 +16,15 @@ sidebar: false
 **Deliverable 1: Biodiversity monitoring report and method evaluation**  
 A comprehensive report summarising biodiversity observations (amphibians, fish, aquatic insects, and bats) across all ponds. Includes:
  – Comparison of eDNA, PAM, and traditional methods
- – Results of the Triturus cristatus density estimation effort
+ – Results of the *Triturus spp.* density estimation effort
  – Evaluation of the inter-lab quality check (ring test)
  – Recommendations for future use of these methods in routine biodiversity monitoring
  
 **Deliverable 2: Citizen science guideline**  
 A practical guideline for designing and managing citizen science schemes focused on pond biodiversity monitoring using eDNA. It outlines a modular participation model adapted to different volunteer profiles, data quality protocols, recruitment and retention strategies, and recommendations for digital infrastructure.
 
-**Deliverable 3: *Triturus cristatus* s. l. monitoring report**  
-A short technical report summarising the results of the density estimation of *T. cristatus* at core ponds. Includes insights into sampling effort, detection reliability via eDNA, and relevance for conservation status assessment.
+**Deliverable 3: *Triturus spp.* monitoring report**  
+A short technical report summarising the results of the density estimation of *Triturus spp.* at core ponds. Includes insights into sampling effort, detection reliability via eDNA, and relevance for conservation status assessment.
 
 **Deliverable 4: Core pond dataset**  
 A curated dataset with harmonised, quality-checked biodiversity records from the 80 core ponds sampled by active contributors. Includes both eDNA and acoustic data, as well as metadata on habitat conditions and pressures.

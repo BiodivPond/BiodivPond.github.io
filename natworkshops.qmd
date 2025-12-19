@@ -6,12 +6,20 @@ about:
   image-shape: rounded
 date-modified: last-modified
 sidebar: true
+listing:
+  - id: "2025"
+    max-description-length: 1000
+    fields: [image, date, title, description]
+    contents: "natworkshops"
+    sort: date desc 
+    type: grid
+    grid-columns: 3
+    grid-item-align: left
+    grid-item-border: true
 ---
 
 ::: {#hero-heading}
 
-## Czechia
-
-### November 2025
+::: {#2025}
 
 :::
