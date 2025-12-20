@@ -1,16 +1,18 @@
 ---
-title: "National workshops"
+title: "Blog posts"
 about:
   id: hero-heading
   template: solana
   image-shape: rounded
+date: 2026/01/02
+date-format: long
 date-modified: last-modified
-sidebar: false
+sidebar: true
 listing:
   - id: "2025"
     max-description-length: 1000
     fields: [image, date, title, description]
-    contents: "natworkshops"
+    contents: "Blog"
     sort: date desc 
     type: grid
     grid-columns: 3
@@ -19,6 +21,7 @@ listing:
 ---
 
 ::: {#hero-heading}
+![](/images/bomvar_stribro.jpeg)
 
 ::: {#2025}
 

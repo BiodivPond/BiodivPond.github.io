@@ -21,8 +21,8 @@ website:
         menu: 
           - href: workshop_2026.qmd
             text: International workshop 2026
-          - href: workshop_2026.qmd
-            text: International workshop 2027
+          #- href: workshop_2026.qmd
+          #  text: International workshop 2027
           - href: natworkshops.qmd
             text: National workshops
           
@@ -33,10 +33,10 @@ website:
         menu: 
           #- href: outreach.qmd
           #  text: Press release 2026
-          - href: outreach.qmd
+          - href: blogposts.qmd
             text: Blog posts
-          - href: outreach.qmd
-            text: Meeting reports
+          #- href: reports.qmd
+          #  text: Meeting reports
           
     right:
       - href: https://aopk.gov.cz/web/en

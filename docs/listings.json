@@ -4,5 +4,9 @@
     "items": [
       "/natworkshops/czechia.html"
     ]
+  },
+  {
+    "listing": "/blogposts.html",
+    "items": []
   }
 ]
