@@ -32,7 +32,7 @@ Jonáš Gaigr is the pilot coordinator responsible for the
 ### Active contributors
 🇮🇹 Eurac Research, 🇧🇬 Executive Environment Agency, 🇵🇹 Regional Fund of Science and Technology, 🇭🇷 Ministry of Environmental Protection and Green Transition, 🇫🇮 Ministry of Environment, 🇮🇱 Ministry of Environmental Protection, 🇨🇿 Nature Conservation Agency of the Czech Republic, 🇳🇱 Dutch Research Council, 🇸🇰 Slovak Academy of Sciences, 🇸🇪 Swedish Environmental Protection Agency, 🇩🇰 Agency for Green Land Use and Aquatic Environment, 🇧🇪 Research Institute for Nature and Forest
 
-In addition, some partners play an additional role in data analysis:
+In addition, some partners play an additional role in data analysis:  
 - **Lab contributors:** 🇨🇿 Nature Conservation Agency of the Czech Republic & 🇧🇪 Research Institute for Nature and Forest  
 - **Passive Acoustic Monitoring analysis:** 🇩🇰 Agency for Green Land Use and Aquatic Environment  
 - **Taxonomic analysis:** 🇨🇿 Nature Conservation Agency of the Czech Republic
