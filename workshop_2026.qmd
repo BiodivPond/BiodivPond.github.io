@@ -47,7 +47,7 @@ writeLines(
 
 📅*Date:* **April / May 2026**
 
-🗺️*Location:* **České Budějovice, Czech Republic**
+🗺️*Location:* **České Budějovice, Czechia**
 
 🏛️*Venue:* **University of South Bohemia, Faculty of Science** (address: [Branišovská 16,4 České Budějovice](https://maps.app.goo.gl/aH7RWYY1zkvkD9Bm6))
 
