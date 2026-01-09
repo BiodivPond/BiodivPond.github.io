@@ -27,7 +27,7 @@ The pilot is coordinated by the Nature Conservation Agency of the Czech Republic
 ### Pilot coordinator
 The **Nature Conservation Agency of the Czech Republic (NCA CR)** is a governmental body established in 1995 under the Conservation of Nature and Landscape Act. The main aim of the NCA is to protect and conserve nature and landscape on the whole territory of the Czech Republic. The NCA manages 25 Protected Landscape Areas (IUCN Category V) and about 800 other types of protected nature areas (IUCN categories Ia, III, IV).
 
-Jonáš Gaigr is the pilot coordinator responsible for the 
+Jonáš Gaigr is the pilot coordinator responsible for the implementation of pilot actions.
 
 ### Active contributors
 🇮🇹 Eurac Research, 🇧🇬 Executive Environment Agency, 🇵🇹 Regional Fund of Science and Technology, 🇭🇷 Ministry of Environmental Protection and Green Transition, 🇫🇮 Ministry of Environment, 🇮🇱 Ministry of Environmental Protection, 🇨🇿 Nature Conservation Agency of the Czech Republic, 🇳🇱 Dutch Research Council, 🇸🇰 Slovak Academy of Sciences, 🇸🇪 Swedish Environmental Protection Agency, 🇩🇰 Agency for Green Land Use and Aquatic Environment, 🇧🇪 Research Institute for Nature and Forest
