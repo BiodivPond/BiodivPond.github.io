@@ -43,60 +43,14 @@ writeLines(
 
 ::: {.callout-red}
 
-## ‼️General Information for BiodivPond 2026
+## ‼️General Information for BiodivPond 2026 Worshop
 
-📅*Date:* **XX.XX.2026 - XX.XX.2026** (Wednesday to Friday)
+📅*Date:* **April / May 2026**
 
 🗺️*Location:* **České Budějovice, Czech Republic**
 
-🏛️*Venue:* **University of South Bohemia, Faculty of Science** (address: [Albertov 6, Prague 2](https://maps.app.goo.gl/MKTEXTdxvn82QME16))
+🏛️*Venue:* **University of South Bohemia, Faculty of Science** (address: [Branišovská 16,4 České Budějovice](https://maps.app.goo.gl/aH7RWYY1zkvkD9Bm6))
 
-🚗*Travel funds:* Limited funding for travel and accommodation costs is available for **COST Action members**.
+
 :::
 
-
-## Registration
-
-**Registration is now closed**. Please email the organizers to discuss alternative options to participate
-
-## Practical information
-
-Venue, reimbursement rules, accommodation, transportation, field trip and more! Click the button below to access the most updated practical information document.
-
-[Practical information document](https://docs.google.com/document/d/1XaLfqhKAEMXq1U4O1288lYpe07Cf6SkObmYtDQ1P318/edit?usp=sharing){.btn}
-
-## Keynote speakers
-
-Currently, we are pleased to confirm the participation of the following keynote speakers (alphabetical order):
-
-| Name | Presentation title | Affiliation | 
-|:----|:---------|:-----|
-| **Jonáš Gaigr** | *TBC* | Nature Covservation Agency of the Czech Republic, CZ |
-
-<br>
-
-## Schedule
-
-**Legend**:  <img src="`r paste0('https://img.shields.io/badge/📢-plenary-', gsub('#', '%23', colors$purple), '?style=flat-square')`" height="25"/> <img src="`r paste0('https://img.shields.io/badge/👤-keynote-', gsub('#', '%23', colors$pink), '?style=flat-square')`" height="25"/> <img src="`r paste0('https://img.shields.io/badge/🥂-social-', gsub('#', '%23', colors$yellow), '?style=flat-square')`" height="25"/> <img src="`r paste0('https://img.shields.io/badge/🗨️-parallel_discussions-', gsub('#', '%23', colors$blue), '?style=flat-square')`" height="25"/> <img src="`r paste0('https://img.shields.io/badge/🎓-training_|_workshop-', gsub('#', '%23', colors$brown), '?style=flat-square')`" height="25"/>
-
-| Time | Day 1 | Day 2 | Day 3 | 
-|:---------------------:|:---------------|:---------------|:---------------|
-| 08:15 - 09:00 | <img src="`r paste0('https://img.shields.io/badge/🪪-Registration-', gsub('#', '%23', colors$red), '?style=flat-square')`" height="25"/> | <img src="`r paste0('https://img.shields.io/badge/🪪-Registration-', gsub('#', '%23', colors$red), '?style=flat-square')`" height="25"/> | <img src="`r paste0('https://img.shields.io/badge/🪪-Registration-', gsub('#', '%23', colors$red), '?style=flat-square')`" height="25"/> |
-| 09:00 - 09:30 | <img src="`r paste0('https://img.shields.io/badge/📢-Welcome-', gsub('#', '%23', colors$purple), '?style=flat-square')`" height="25"/> | <img src="`r paste0('https://img.shields.io/badge/👤-Speaker-', gsub('#', '%23', colors$pink), '?style=flat-square')`" height="25"/> | <img src="`r paste0('https://img.shields.io/badge/🗨️-WG_meetings-', gsub('#', '%23', colors$blue), '?style=flat-square')`" height="25"/> |
-| 09:30 - 10:00 | <img src="`r paste0('https://img.shields.io/badge/👤-Jack_Williams-', gsub('#', '%23', colors$pink), '?style=flat-square')`" height="25"/> | <img src="`r paste0('https://img.shields.io/badge/👤-Speaker-', gsub('#', '%23', colors$pink), '?style=flat-square')`" height="25"/> | <img src="`r paste0('https://img.shields.io/badge/🗨️-WG_meetings-', gsub('#', '%23', colors$blue), '?style=flat-square')`" height="25"/> |
-| 10:00 - 10:30 | <img src="`r paste0('https://img.shields.io/badge/👤-Xavier_Benito-', gsub('#', '%23', colors$pink), '?style=flat-square')`" height="25"/> | <img src="`r paste0('https://img.shields.io/badge/👤-Speaker-', gsub('#', '%23', colors$pink), '?style=flat-square')`" height="25"/> | <img src="`r paste0('https://img.shields.io/badge/🗨️-WG_meetings-', gsub('#', '%23', colors$blue), '?style=flat-square')`" height="25"/> |
-| 10:30 - 11:00 | <img src="`r paste0('https://img.shields.io/badge/🥂-Coffee_Break-', gsub('#', '%23', colors$yellow), '?style=flat-square')`" height="25"/> | <img src="`r paste0('https://img.shields.io/badge/🥂-Coffee_Break-', gsub('#', '%23', colors$yellow), '?style=flat-square')`" height="25"/> | <img src="`r paste0('https://img.shields.io/badge/🥂-Coffee_Break-', gsub('#', '%23', colors$yellow), '?style=flat-square')`" height="25"/> |
-| 11:00 - 11:30 | <img src="`r paste0('https://img.shields.io/badge/👤-Speaker-', gsub('#', '%23', colors$pink), '?style=flat-square')`" height="25"/> | <img src="`r paste0('https://img.shields.io/badge/📢-Defining_Breakout_Disc._1-', gsub('#', '%23', colors$purple), '?style=flat-square')`" height="25"/> | <img src="`r paste0('https://img.shields.io/badge/🗨️-WG_meetings-', gsub('#', '%23', colors$blue), '?style=flat-square')`" height="25"/> |
-| 11:30 - 12:00 | <img src="`r paste0('https://img.shields.io/badge/👤-Speaker-', gsub('#', '%23', colors$pink), '?style=flat-square')`" height="25"/> | <img src="`r paste0('https://img.shields.io/badge/🗨️-Breakout_Disc._1-', gsub('#', '%23', colors$blue), '?style=flat-square')`" height="25"/> | <img src="`r paste0('https://img.shields.io/badge/🗨️-WG_meetings-', gsub('#', '%23', colors$blue), '?style=flat-square')`" height="25"/> |
-| 12:00 - 12:30 | <img src="`r paste0('https://img.shields.io/badge/👤-Speaker-', gsub('#', '%23', colors$pink), '?style=flat-square')`" height="25"/> | <img src="`r paste0('https://img.shields.io/badge/📢-Sum._Breakout_Disc._1-', gsub('#', '%23', colors$purple), '?style=flat-square')`" height="25"/> | <img src="`r paste0('https://img.shields.io/badge/🗨️-WG_meetings-', gsub('#', '%23', colors$blue), '?style=flat-square')`" height="25"/> |
-| 12:30 - 13:30 | <img src="`r paste0('https://img.shields.io/badge/🥂-Lunch-', gsub('#', '%23', colors$yellow), '?style=flat-square')`" height="25"/> | <img src="`r paste0('https://img.shields.io/badge/🥂-Lunch-', gsub('#', '%23', colors$yellow), '?style=flat-square')`" height="25"/> | <img src="`r paste0('https://img.shields.io/badge/🥂-Lunch-', gsub('#', '%23', colors$yellow), '?style=flat-square')`" height="25"/> |
-| 13:30 - 14:00 | <img src="`r paste0('https://img.shields.io/badge/📢-Poster_Flash_talks-', gsub('#', '%23', colors$purple), '?style=flat-square')`" height="25"/> | <img src="`r paste0('https://img.shields.io/badge/📢-Discussion-', gsub('#', '%23', colors$purple), '?style=flat-square')`" height="25"/> | <img src="`r paste0('https://img.shields.io/badge/📢-Discussion-', gsub('#', '%23', colors$purple), '?style=flat-square')`" height="25"/> |
-| 14:00 - 14:30 | <img src="`r paste0('https://img.shields.io/badge/📢-Poster_Flash_talks-', gsub('#', '%23', colors$purple), '?style=flat-square')`" height="25"/> | <img src="`r paste0('https://img.shields.io/badge/🗨️-Discussion-', gsub('#', '%23', colors$blue), '?style=flat-square')`" height="25"/> |  <img src="`r paste0('https://img.shields.io/badge/🎓-Outreach-', gsub('#', '%23', colors$brown), '?style=flat-square')`" height="25"/> <img src="`r paste0('https://img.shields.io/badge/🎓-Neotoma_training-', gsub('#', '%23', colors$brown), '?style=flat-square')`" height="25"/> |
-| 14:30 - 15:00 | <img src="`r paste0('https://img.shields.io/badge/🖼️-Poster_session-', gsub('#', '%23', colors$yellow), '?style=flat-square')`" height="25"/> | <img src="`r paste0('https://img.shields.io/badge/📢-Discussion-', gsub('#', '%23', colors$purple), '?style=flat-square')`" height="25"/> |  <img src="`r paste0('https://img.shields.io/badge/🎓-Outreach-', gsub('#', '%23', colors$brown), '?style=flat-square')`" height="25"/> <img src="`r paste0('https://img.shields.io/badge/🎓-Discussion-', gsub('#', '%23', colors$brown), '?style=flat-square')`" height="25"/> |
-| 15:00 - 15:30 | <img src="`r paste0('https://img.shields.io/badge/🥂-Coffee_Break-', gsub('#', '%23', colors$yellow), '?style=flat-square')`" height="25"/> <img src="`r paste0('https://img.shields.io/badge/🖼️-Discussion-', gsub('#', '%23', colors$yellow), '?style=flat-square')`" height="25"/> |  <img src="`r paste0('https://img.shields.io/badge/🥂-Coffee_Break-', gsub('#', '%23', colors$yellow), '?style=flat-square')`" height="25"/> | <img src="`r paste0('https://img.shields.io/badge/🥂-Coffee_Break-', gsub('#', '%23', colors$yellow), '?style=flat-square')`" height="25"/> |
-| 15:30 - 16:00 | <img src="`r paste0('https://img.shields.io/badge/👤-Speaker-', gsub('#', '%23', colors$pink), '?style=flat-square')`" height="25"/> | <img src="`r paste0('https://img.shields.io/badge/📢-Planning-', gsub('#', '%23', colors$purple), '?style=flat-square')`" height="25"/> |  <img src="`r paste0('https://img.shields.io/badge/🎓-Outreach-', gsub('#', '%23', colors$brown), '?style=flat-square')`" height="25"/> <img src="`r paste0('https://img.shields.io/badge/🎓-Neotoma_training-', gsub('#', '%23', colors$brown), '?style=flat-square')`" height="25"/>|
-| 16:00 - 16:30 | <img src="`r paste0('https://img.shields.io/badge/👤-Speaker-', gsub('#', '%23', colors$pink), '?style=flat-square')`" height="25"/> | <img src="`r paste0('https://img.shields.io/badge/📢-Planning-', gsub('#', '%23', colors$purple), '?style=flat-square')`" height="25"/> | <img src="`r paste0('https://img.shields.io/badge/🎓-Outreach_&_education-', gsub('#', '%23', colors$brown), '?style=flat-square')`" height="25"/> <img src="`r paste0('https://img.shields.io/badge/🎓-Neotoma_training-', gsub('#', '%23', colors$brown), '?style=flat-square')`" height="25"/> |
-| 16:30 - 17:00 | <img src="`r paste0('https://img.shields.io/badge/👤-John_Boyle-', gsub('#', '%23', colors$pink), '?style=flat-square')`" height="25"/> | <img src="`r paste0('https://img.shields.io/badge/📢-Planning_the_Action-', gsub('#', '%23', colors$purple), '?style=flat-square')`" height="25"/> |  <img src="`r paste0('https://img.shields.io/badge/🎓-Outreach_&_education-', gsub('#', '%23', colors$brown), '?style=flat-square')`" height="25"/> <img src="`r paste0('https://img.shields.io/badge/🎓-Neotoma_training-', gsub('#', '%23', colors$brown), '?style=flat-square')`" height="25"/> |
-| 17:30 | <img src="`r paste0('https://img.shields.io/badge/🥂-Ice--breaker-', gsub('#', '%23', colors$yellow), '?style=flat-square')`" height="25"/> | | |
-
-<br>
