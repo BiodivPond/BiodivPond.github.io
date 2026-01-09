@@ -26,6 +26,9 @@ website:
           
       - href: outcomes.qmd
         text: Outcomes
+        
+      - href: meetings.qmd
+        text: Meetings
       
       - text: Outreach
         menu: 
