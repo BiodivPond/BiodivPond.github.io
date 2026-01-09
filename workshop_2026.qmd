@@ -1,5 +1,5 @@
 ---
-title: "International wokshop 2026"
+title: "Partner wokshop 2026"
 about:
   id: hero-heading
   template: solana
