@@ -21,8 +21,6 @@ website:
         menu: 
           - href: workshop_2026.qmd
             text: Partner workshop 2026
-          #- href: workshop_2026.qmd
-          #  text: International workshop 2027
           - href: natworkshops.qmd
             text: National workshops
           
