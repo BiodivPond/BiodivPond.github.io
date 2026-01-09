@@ -1,0 +1,67 @@
+---
+title: "Meetings"
+about:
+  id: hero-heading
+  template: solana
+  image-shape: rounded
+date: 2026/01/09
+date-format: long
+date-modified: last-modified
+sidebar: false
+---
+
+---
+
+```{r}
+#| label: setup
+#| include: false
+
+# Keep your setup chunk exactly as you fixed it
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(
+  fig.align = "center",
+  out.width = "100%",
+  dpi = 300
+)
+
+library(here)
+library(jsonlite)
+
+# Ensure this path is correct relative to your project root!
+here::i_am("workshop_2026.qmd") 
+
+colors <- jsonlite::fromJSON(here::here("colors.json"))
+
+writeLines(
+  text = c(
+    "// This file is auto-generated from colors.json. Do not edit directly.",
+    paste0("$", names(colors), ": ", unname(colors), ";")
+  ),
+  con = here::here("_colors.scss")
+)
+```
+
+::: {.callout-red}
+
+## 📌 Next active contributor meeting 
+
+📅 **Friday January 23rd**
+
+🕚 **11:00 AM CET**
+
+📖 **Agenda:** core pond selection criteria; choice of acoustic recorders and accessories; permits to be obtained by partners; in-person workshop timing; working groups activity reports
+
+✉️ **Message [jonas.gaigr@aopk.gov.cz](jonas.gaigr@aopk.gov.cz) for meeting link and agenda proposals**
+
+:::
+
+## Past meetings
+
+### Kick-off meeting
+
+📅 **Friday January 9th**
+
+📝 minutes (TBC)
+
+🎞️ [slides](meetings/slides/BiodivPond_20250109.pptx.pdf)
+
