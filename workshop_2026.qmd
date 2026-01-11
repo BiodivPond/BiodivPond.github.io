@@ -43,14 +43,15 @@ writeLines(
 
 ::: {.callout-red}
 
-## ‼️General Information for BiodivPond 2026 Worshop
+## ‼️General Information for BiodivPond 2026 Workshop
 
 📅*Date:* **April / May 2026**
 
 🗺️*Location:* **České Budějovice, Czechia**
 
-🏛️*Venue:* **University of South Bohemia, Faculty of Science** (address: [Branišovská 16,4 České Budějovice](https://maps.app.goo.gl/aH7RWYY1zkvkD9Bm6))
-
+🏛️*Venue:* **University of South Bohemia, Faculty of Science** (address: [Branišovská 1645 České Budějovice](https://maps.app.goo.gl/aH7RWYY1zkvkD9Bm6))
 
 :::
 
+![](/images/trebonsko.jpg)
+A field trip is planned to the Třeboňsko protected landscape area known for its amazing pondscape.
