@@ -54,7 +54,11 @@
   </url>
   <url>
     <loc>https://biodivpond.github.io/workshop_2026.html</loc>
+<<<<<<< HEAD
     <lastmod>2026-01-09T22:37:22.720Z</lastmod>
+=======
+    <lastmod>2026-01-09T22:18:16.433Z</lastmod>
+>>>>>>> 0372702e2acb2949065d4c960d6e6cfe3ee2888a
   </url>
   <url>
     <loc>https://biodivpond.github.io/natworkshops/czechia.html</loc>
@@ -71,5 +75,9 @@
   <url>
     <loc>https://biodivpond.github.io/Blog/start.html</loc>
     <lastmod>2026-01-06T06:24:18.522Z</lastmod>
+  </url>
+  <url>
+    <loc>https://biodivpond.github.io/meetings.html</loc>
+    <lastmod>2026-01-09T22:29:31.596Z</lastmod>
   </url>
 </urlset>
