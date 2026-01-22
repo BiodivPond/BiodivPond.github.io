@@ -58,3 +58,8 @@ format:
     title-block-banner: false
     title-block-logo: Materials/Logos/biodivpond_logo_round.png
     css: styles.css
+    
+permissions:
+  contents: read
+  pages: write
+  id-token: write
