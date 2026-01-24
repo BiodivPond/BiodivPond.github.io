@@ -45,17 +45,23 @@ writeLines(
 
 ## 📌 Next active contributor meeting 
 
-📅 **Friday January 23rd**
+📅 **Friday February 6th**
 
 🕚 **11:00 AM CET**
 
-📖 **Agenda:** core pond selection criteria; choice of acoustic recorders and accessories; permits to be obtained by partners; in-person workshop timing; working groups activity reports
+📖 **Agenda:** core pond selection criteria; order status of acoustic recorders and accessories; permits to be obtained by partners; in-person workshop timing; working groups activity reports
 
 ✉️ **Message [jonas.gaigr@aopk.gov.cz](jonas.gaigr@aopk.gov.cz) for meeting link and agenda proposals**
 
 :::
 
 ## Past meetings
+
+### Active contributor meeting: acoustics and site selection
+
+📅 **Friday January 23th**
+
+📝 minutes (TBC)
 
 ### Kick-off meeting
 
