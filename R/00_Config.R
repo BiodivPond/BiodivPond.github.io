@@ -92,10 +92,16 @@ world  <- st_transform(world, crs_europe)
 europe_bbox <- st_bbox(europe_ext)  # crs already 3035
 
 target_countries <- c(
-  "Croatia", "Bulgaria", "Czechia", "Portugal",
+  "Croatia", "Bulgaria", "Czechia", 
   "Finland", "Slovakia", "Netherlands", "Italy", "Belgium",
   "Denmark", "Sweden", "Israel"
   )
+
+bbox_countries_list <- c(
+  "Croatia", "Bulgaria", "Czechia", "Spain",
+  "Finland", "Slovakia", "Netherlands", "Italy", "Belgium",
+  "Denmark", "Sweden", "Israel"
+)
 
 countries <-
   world %>%
@@ -108,8 +114,19 @@ countries <-
     europe_bbox
   )
 
+bbox_countries <-
+  world %>%
+  dplyr::filter(admin %in% bbox_countries_list) %>%
+  dplyr::filter(
+    continent == "Europe" | continent == "Asia"
+  ) %>%
+  sf::st_crop(
+    .,
+    europe_bbox
+  )
+
 target_bbox <-
-  countries %>%
+  bbox_countries %>%
   sf::st_bbox() %>%
   sf::st_as_sfc() %>%        
   sf::st_buffer(300000) %>%
