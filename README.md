@@ -33,7 +33,7 @@ Make your changes and commit them (`git commit -m 'Update project description'`)
 Push to the branch and submit a Pull Request.
 
 ## 🤝 Partners & Funding
-This project is part of the Biodiversa+ European Biodiversity Partnership. It is coordinated by the Nature Conservation Agency of the Czech Republic (AOPK ČR) with partners across Europe.
+This project is part of the [Biodiversa+ European Biodiversity Partnership](https://www.biodiversa.eu/). It is coordinated by the Nature Conservation Agency of the Czech Republic (AOPK ČR) with partners across Europe.
 
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
