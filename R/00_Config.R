@@ -93,13 +93,13 @@ europe_bbox <- st_bbox(europe_ext)  # crs already 3035
 
 target_countries <- c(
   "Croatia", "Bulgaria", "Czechia", 
-  "Finland", "Slovakia", "Netherlands", "Italy", "Belgium",
+  "Finland", "Slovakia", "Italy", "Belgium",
   "Denmark", "Sweden", "Israel"
   )
 
 bbox_countries_list <- c(
   "Croatia", "Bulgaria", "Czechia", "Spain",
-  "Finland", "Slovakia", "Netherlands", "Italy", "Belgium",
+  "Finland", "Slovakia", "Italy", "Belgium",
   "Denmark", "Sweden", "Israel"
 )
 
