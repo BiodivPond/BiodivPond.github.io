@@ -45,7 +45,7 @@ writeLines(
 
 ## 📌 Next active contributor meeting 
 
-📅 **Friday February 20th**
+📅 **Friday March 6th**
 
 🕚 **11:00 AM CET**
 
@@ -56,6 +56,12 @@ writeLines(
 :::
 
 ## Past meetings
+
+### Active contributor meeting: sampling protocol discussions
+
+📅 **Friday February 20th**
+
+📝 key points (TBC)
 
 ### Active contributor meeting: site selection and stratification criteria
 
