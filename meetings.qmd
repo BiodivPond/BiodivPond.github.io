@@ -57,7 +57,8 @@ writeLines(
 
 ## Past meetings
 
-### Active contributor meeting: order status of acoustic recorders and accessories; deployment instructions for acoustic rocorders; finalising the sampling protocols; permits to be obtained by partners; in-person workshop timing and practicalities; working groups activity reports
+### Active contributor meeting
+📖 **Agenda:** order status of acoustic recorders and accessories; deployment instructions for acoustic recorders; finalising the sampling protocols; permits to be obtained by partners; in-person workshop timing and practicalities; working groups activity reports
 
 📅 **Friday March 20th**
 
