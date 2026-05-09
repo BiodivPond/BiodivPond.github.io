@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" version="29.6.4">
+  <diagram name="Page-1" id="2UMOPvPQmZOIC1bTK1Z6">
+    <mxGraphModel dx="1310" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bao1xi_Eb6poxb7fPUWO-1" parent="1" style="ellipse;fillColor=#00335D;opacity=60;strokeColor=none;html=1;fontColor=#FFFFFF;" value="" vertex="1">
+          <mxGeometry height="400" width="500" x="530" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bao1xi_Eb6poxb7fPUWO-2" parent="1" style="ellipse;fillColor=#97BD0F;opacity=60;strokeColor=none;html=1;fontColor=#FFFFFF;" value="" vertex="1">
+          <mxGeometry height="400" width="500" x="179.5" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="bao1xi_Eb6poxb7fPUWO-3" parent="1" style="ellipse;fillColor=#01ABAB;opacity=60;strokeColor=none;html=1;fontColor=#FFFFFF;" value="" vertex="1">
+          <mxGeometry height="400" width="500" x="120" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="bao1xi_Eb6poxb7fPUWO-4" parent="1" style="text;fontSize=48;align=center;verticalAlign=middle;html=1;fontColor=#FFFFFF;fontStyle=1" value="Amphibians" vertex="1">
+          <mxGeometry height="70" width="190" x="275" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="bao1xi_Eb6poxb7fPUWO-5" parent="1" style="text;fontSize=44;align=center;verticalAlign=middle;html=1;fontColor=#FFFFFF;fontStyle=1" value="&lt;div&gt;&lt;font&gt;Aquatic&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;macroinvertebrates&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="190" x="275" y="547" as="geometry" />
+        </mxCell>
+        <mxCell id="bao1xi_Eb6poxb7fPUWO-6" parent="1" style="text;fontSize=48;align=center;verticalAlign=middle;html=1;fontColor=#FFFFFF;fontStyle=1" value="Bats" vertex="1">
+          <mxGeometry height="70" width="190" x="700" y="241.75" as="geometry" />
+        </mxCell>
+        <mxCell id="bao1xi_Eb6poxb7fPUWO-7" parent="1" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=36;fontStyle=1" value="eDNA" vertex="1">
+          <mxGeometry height="40" width="40" x="372.5" y="394" as="geometry" />
+        </mxCell>
+        <mxCell id="bao1xi_Eb6poxb7fPUWO-8" parent="1" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=25;fontStyle=1" value="Passive&amp;nbsp;&lt;div&gt;accoustic&lt;/div&gt;&lt;div&gt;monitoring&lt;/div&gt;" vertex="1">
+          <mxGeometry height="41.5" width="39.5" x="589" y="241.75" as="geometry" />
+        </mxCell>
+        <mxCell id="bao1xi_Eb6poxb7fPUWO-9" parent="1" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=25;fontStyle=1" value="Expert&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;inventories&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="40" x="412.5" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="bao1xi_Eb6poxb7fPUWO-10" parent="1" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;fontStyle=1" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;Citizen&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 26px; background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;science&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="40" x="355" y="340" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
