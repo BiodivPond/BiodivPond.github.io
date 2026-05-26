@@ -36,8 +36,8 @@ website:
           #  text: Press release 2026
           - href: blogposts.qmd
             text: Blog posts
-          #- href: reports.qmd
-          #  text: Meeting reports
+          - href: reports.qmd
+            text: Meeting reports
           
     right:
       - href: https://aopk.gov.cz/web/en
