@@ -45,11 +45,11 @@ writeLines(
 
 ## 📌 Next active contributor meeting 
 
-📅 **Thursday April 30th**
+📅 **Friday May 29th**
 
 🕚 **11:00 AM CET**
 
-📖 **Agenda:** deployment status of acoustic recorders and accessories; sampling season progress reports; in-person workshop feedback
+📖 **Agenda:** deployment status of acoustic recorders and accessories; sampling season progress reports; sample and data management discussions
 
 ✉️ **Message [jonas.gaigr@aopk.gov.cz](jonas.gaigr@aopk.gov.cz) for meeting link and agenda proposals**
 
@@ -58,9 +58,16 @@ writeLines(
 ## Past meetings
 
 ### Active contributor meeting
-📖 **Agenda:** order status of acoustic recorders and accessories; deployment instructions for acoustic recorders; finalising the sampling protocols; permits to be obtained by partners; in-person workshop timing and practicalities; working groups activity reports
+📅 **Friday May 15th**  
+📖 **Agenda:** reporting from the BioMonWeek 2026; deployment status of acoustic recorders and accessories; sampling season progress reports; discussion on sample logistics
 
-📅 **Friday March 20th**
+### Active contributor meeting
+📅 **Thursday April 30th**  
+📖 **Agenda:** deployment status of acoustic recorders and accessories; sampling season progress reports; in-person workshop feedback
+
+### Active contributor meeting
+📅 **Friday March 20th**  
+📖 **Agenda:** order status of acoustic recorders and accessories; deployment instructions for acoustic recorders; finalising the sampling protocols; permits to be obtained by partners; in-person workshop timing and practicalities; working groups activity reports
 
 ### Active contributor meeting: in-person workshop plans and sampling protocol discussions
 
