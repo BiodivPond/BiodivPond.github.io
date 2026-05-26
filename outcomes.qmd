@@ -27,7 +27,7 @@ A practical guideline for designing and managing citizen science schemes focused
 A short technical report summarising the results of the density estimation of *Triturus spp.* at core ponds. Includes insights into sampling effort, detection reliability via eDNA, and relevance for conservation status assessment.
 
 **Deliverable 4: Core pond dataset**  
-A curated dataset with harmonised, quality-checked biodiversity records from the 80 core ponds sampled by active contributors. Includes both eDNA and acoustic data, as well as metadata on habitat conditions and pressures.
+A curated dataset with harmonised, quality-checked biodiversity records from the 60 core ponds sampled by active contributors. Includes both eDNA and acoustic data, as well as metadata on habitat conditions and pressures.
 
 **Deliverable 5: Citizen science pond dataset**  
 A cleaned dataset containing biodiversity data collected from the 500 ponds sampled by the citizen scientists.
