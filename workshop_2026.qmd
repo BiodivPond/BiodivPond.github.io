@@ -51,6 +51,8 @@ writeLines(
 
 🏛️*Venue:* **University of South Bohemia, Faculty of Science** (address: [Branišovská 1645 České Budějovice](https://maps.app.goo.gl/aH7RWYY1zkvkD9Bm6))
 
+[Workshop report](https://biodivpond.github.io/Reports/workshop_26.html){.btn .btn-primary target="_blank"}
+
 :::
 
 ## Practical information
