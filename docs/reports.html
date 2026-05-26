@@ -2,14 +2,17 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.24">
+<meta name="generator" content="quarto-1.10.3">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2026-01-02">
+<meta name="dcterms.date" content="2026-05-24">
 
-<title>Outreach – BiodivPond</title>
+<title>Meeting reports – BiodivPond</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -32,16 +35,17 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./Materials/Logos/biodivpond_logo_round.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-e44360b8a8db1e130c7792fece1c8032.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-e31584831b205ffbb2d98406f31c2a5b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-a0f9fd0d421825b736dc1bbcbcba2219.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,7 +73,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-2026 .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-date','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-2026'] = new List('listing-2026', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -110,7 +172,7 @@ ul.task-list li input[type="checkbox"] {
     <ul class="dropdown-menu" aria-labelledby="nav-menu-events">    
         <li>
     <a class="dropdown-item" href="./workshop_2026.html">
- <span class="dropdown-text">International workshop 2026</span></a>
+ <span class="dropdown-text">Partner workshop 2026</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./natworkshops.html">
@@ -122,14 +184,22 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./outcomes.html"> 
 <span class="menu-text">Outcomes</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./meetings.html"> 
+<span class="menu-text">Meetings</span></a>
+  </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-outreach" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Outreach</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-outreach">    
         <li>
-    <a class="dropdown-item" href="./blog.qmd">
+    <a class="dropdown-item" href="./blogposts.html">
  <span class="dropdown-text">Blog posts</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./reports.html">
+ <span class="dropdown-text">Meeting reports</span></a>
   </li>  
     </ul>
   </li>
@@ -166,41 +236,57 @@ ul.task-list li input[type="checkbox"] {
     <div class="entity-contents">
       <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Outreach</h1>
+<h1 class="title">Meeting reports</h1>
 </div>
 <div class="quarto-title-meta">
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">January 2, 2026</p>
+      <p class="date">May 24, 2026</p>
     </div>
   </div>
     <div>
     <div class="quarto-title-meta-heading">Modified</div>
     <div class="quarto-title-meta-contents">
-      <p class="date-modified">November 23, 2025</p>
+      <p class="date-modified">May 25, 2026</p>
     </div>
   </div>
   </div>
 </header> 
       <div class="about-contents"><div id="hero-heading">
 <p><img src=".\images/bomvar_stribro.jpeg" class="img-fluid"></p>
-<p>BiodivPond is a pilot monitoring initiative supported by Biodiversa+ for the period 2026 to 2028. The full title is “Biodiversity monitoring of ponds: evaluating the applicability of novel methods and identification of obstacles to wide use”.</p>
-<p>The objectives of the BiodivPond pilot are:</p>
-<ol type="1">
-<li><p><strong>Establish a transnational pond monitoring network across Europe:</strong> Each active contributor will sample a minimum of 6 ponds (80 in total) during late spring of 2026 for biodiversity and key local environmental pond conditions following a highly standardised sampling protocol based on traditional methods, eDNA and PAM, targeting amphibians, fish, aquatic macro-invertebrates, and bats.</p></li>
-<li><p><strong>Design and pilot a citizen science-based biodiversity monitoring scheme for ponds across Europe:</strong> All active contributors will collaborate in the development and implementation of a participatory citizen science-based monitoring scheme focusing on amphibians, fish and aquatic macro-invertebrates. The monitoring will follow a standardised field protocol to assess key local environmental pond conditions and to collect samples for the analysis of eDNA. A total of 500 additional ponds are located in different biogeographical regions throughout Europe.</p></li>
-<li><p><strong>Deliver a shared open-access data infrastructure:</strong> A publicly accessible digital repository hosting all genomic (eDNA) and acoustic (PAM) data, including relevant metadata and species occurrence information, is operational by the project’s end, facilitating transparency and reproducibility.</p></li>
-<li><p><strong>Operationalise data integration workflows:</strong> A tested and transferable pipeline enabling the integration of eDNA and PAM data into national and international biodiversity databases, and Europe-wide frameworks is in place and usable by all project partners.</p></li>
-<li><p><strong>Provide user-friendly biodiversity visualisation tools:</strong> Interactive tools and dashboards displaying species presence and geographical distributions have been developed and made available to stakeholders, including nature managers, policymakers, and the public.</p></li>
-</ol>
+<div id="listing-2026" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-date-sort="1767308400000" data-listing-file-modified-sort="1779644004000" data-listing-date-modified-sort="1779644004000" data-listing-reading-time-sort="2" data-listing-word-count-sort="395">
+<a href="./Reports/workshop_26.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/we26_group1.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Advancing Pond Monitoring: Highlights from the České Budějovice Workshop
+</h5>
+<div class="card-text listing-description delink">
+On 16 and 17 April 2025, partners of the BiodivPond Pilot convened in České Budějovice, Czechia, for an intensive in-person workshop dedicated to piloting a harmonised European pond biodiversity monitoring scheme. The workshop focused on sharing relevant expertise among the partners and refining the standardised protocols that will be implemented across a network of 80 ponds in late spring 2026. With minor adjustments, these protocols will provide core guidance for stakeholders involved in sampling an additional 500 ponds in 2027. As part of the Biodiversa+ partnership, BiodivPond will hence pilot a truly pan-European scheme focusing on small ponds.
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+January 2, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+
+
 </div></div>
     </div>
   </div>
 </div>
-
-
-
 
 
 </main> <!-- /main -->
