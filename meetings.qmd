@@ -45,19 +45,26 @@ writeLines(
 
 ## 📌 Next active contributor meeting 
 
-📅 **Friday May 29th**
+📅 **Friday July 24th**
 
 🕚 **11:00 AM CET**
 
-📖 **Agenda:** deployment status of acoustic recorders and accessories; sampling season progress reports; sample and data management discussions
+📖 **Agenda:** deployment status of acoustic recorders and accessories; lessons learned from the 2026 sampling season; data management discussions
 
 ✉️ **Message [jonas.gaigr@aopk.gov.cz](jonas.gaigr@aopk.gov.cz) for meeting link and agenda proposals**
 
 :::
 
 ## Past meetings
+### Active contributor meeting: solving acoustic recorder issues and discussing sample logistics
+📅 **Friday June 26th**  
+📖 **Agenda:** deployment status of acoustic recorders and accessories; sampling season progress reports; discussion on sample logistics - **all samples need to reach the lab node by July 27th**  
 
-### Active contributor meeting
+### Acoustic data upload meeting
+📅 **Friday June 19th**  
+📖 **Agenda:** guidence on acoustic data upload
+
+### Active contributor meeting: sampling season progress reports
 📅 **Friday May 15th**  
 📖 **Agenda:** reporting from the BioMonWeek 2026; deployment status of acoustic recorders and accessories; sampling season progress reports; discussion on sample logistics
 
