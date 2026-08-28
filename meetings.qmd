@@ -45,18 +45,27 @@ writeLines(
 
 ## 📌 Next active contributor meeting 
 
-📅 **Friday July 24th**
+📅 **Friday September 11th**
 
 🕚 **11:00 AM CET**
 
-📖 **Agenda:** deployment status of acoustic recorders and accessories; lessons learned from the 2026 sampling season; data management discussions
+📖 **Agenda:**     
 
 ✉️ **Message [jonas.gaigr@aopk.gov.cz](jonas.gaigr@aopk.gov.cz) for meeting link and agenda proposals**
 
 :::
 
 ## Past meetings
-### Active contributor meeting: solving acoustic recorder issues and discussing sample logistics
+### Active contributor meeting: updates and state of the pilot
+📅 **Friday August 28th**  
+📖 **Agenda:** updates and state of the pilot, data uploads, analysis and [GitHub Project](https://github.com/BiodivPond), call for blog posts, data management plan, survey refinement for 2027     
+🎞️ [slides](meetings/slides/BiodivPond_20260828.pptx.pdf)
+
+### Active contributor meeting: solving acoustic recorder issues, discussing sample logistics, lessons learned
+📅 **Friday July 24th**  
+📖 **Agenda:** deployment status of acoustic recorders and accessories; lessons learned from the 2026 sampling season; data management discussions - **all samples need to reach the lab node by July 27th**  
+
+### Active contributor meeting: acoustic deployment status, ARU issues and sample logistics
 📅 **Friday June 26th**  
 📖 **Agenda:** deployment status of acoustic recorders and accessories; sampling season progress reports; discussion on sample logistics - **all samples need to reach the lab node by July 27th**  
 
