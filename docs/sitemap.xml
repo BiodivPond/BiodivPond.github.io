@@ -1,87 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://biodivpond.github.io//index.html</loc>
-    <lastmod>2025-10-29T05:46:37.355Z</lastmod>
-  </url>
-  <url>
-    <loc>https://biodivpond.github.io//about.html</loc>
-    <lastmod>2025-11-08T18:32:40.911Z</lastmod>
-  </url>
-  <url>
-    <loc>https://biodivpond.github.io//partners.html</loc>
-    <lastmod>2025-10-29T05:46:37.355Z</lastmod>
-  </url>
-  <url>
-    <loc>https://biodivpond.github.io//outcomes.html</loc>
-    <lastmod>2025-10-29T05:46:37.355Z</lastmod>
-  </url>
-  <url>
-    <loc>https://biodivpond.github.io//events.html</loc>
-    <lastmod>2025-10-29T05:46:37.355Z</lastmod>
-  </url>
-  <url>
-    <loc>https://biodivpond.github.io//outreach.html</loc>
-    <lastmod>2025-10-29T05:46:37.355Z</lastmod>
-  </url>
-  <url>
-    <loc>https://biodivpond.github.io/index.html</loc>
-    <lastmod>2026-08-28T19:12:28.915Z</lastmod>
-  </url>
-  <url>
-    <loc>https://biodivpond.github.io/about.html</loc>
-    <lastmod>2025-11-23T16:48:40.080Z</lastmod>
-  </url>
-  <url>
-    <loc>https://biodivpond.github.io/partners.html</loc>
-    <lastmod>2026-08-28T19:12:28.952Z</lastmod>
-  </url>
-  <url>
-    <loc>https://biodivpond.github.io/outcomes.html</loc>
-    <lastmod>2026-08-28T19:12:28.952Z</lastmod>
-  </url>
-  <url>
-    <loc>https://biodivpond.github.io/events.html</loc>
-    <lastmod>2025-11-23T16:49:00.192Z</lastmod>
-  </url>
-  <url>
-    <loc>https://biodivpond.github.io/outreach.html</loc>
-    <lastmod>2025-11-23T16:49:14.850Z</lastmod>
-  </url>
-  <url>
-    <loc>https://biodivpond.github.io/natworkshops.html</loc>
-    <lastmod>2026-08-28T19:12:28.951Z</lastmod>
-  </url>
-  <url>
     <loc>https://biodivpond.github.io/workshop_2026.html</loc>
     <lastmod>2026-08-28T19:12:28.952Z</lastmod>
   </url>
   <url>
-    <loc>https://biodivpond.github.io/meetings.html</loc>
-    <lastmod>2026-08-28T19:41:06.140Z</lastmod>
+    <loc>https://biodivpond.github.io/Reports/workshop_26.html</loc>
+    <lastmod>2026-08-28T19:12:27.944Z</lastmod>
+  </url>
+  <url>
+    <loc>https://biodivpond.github.io/outcomes.html</loc>
+    <lastmod>2026-09-08T22:04:29.873Z</lastmod>
   </url>
   <url>
     <loc>https://biodivpond.github.io/natworkshops/czechia.html</loc>
     <lastmod>2026-08-28T19:12:28.952Z</lastmod>
   </url>
   <url>
+    <loc>https://biodivpond.github.io/index.html</loc>
+    <lastmod>2026-08-28T19:12:28.915Z</lastmod>
+  </url>
+  <url>
     <loc>https://biodivpond.github.io/blogposts.html</loc>
-    <lastmod>2025-12-20T10:27:26.351Z</lastmod>
+    <lastmod>2026-08-28T19:12:27.983Z</lastmod>
+  </url>
+  <url>
+    <loc>https://biodivpond.github.io/about.html</loc>
+    <lastmod>2026-08-28T19:12:27.983Z</lastmod>
   </url>
   <url>
     <loc>https://biodivpond.github.io/Blog/start.html</loc>
-    <lastmod>2026-01-06T06:24:18.522Z</lastmod>
+    <lastmod>2026-08-28T19:12:27.745Z</lastmod>
   </url>
   <url>
-    <loc>https://biodivpond.github.io/Blog/workshop_26.html</loc>
-    <lastmod>2026-05-24T17:33:24.000Z</lastmod>
+    <loc>https://biodivpond.github.io/core_pond_dataset.html</loc>
+    <lastmod>2026-09-08T21:59:01.601Z</lastmod>
+  </url>
+  <url>
+    <loc>https://biodivpond.github.io/meetings.html</loc>
+    <lastmod>2026-09-08T21:34:29.252Z</lastmod>
+  </url>
+  <url>
+    <loc>https://biodivpond.github.io/natworkshops.html</loc>
+    <lastmod>2026-08-28T19:12:28.951Z</lastmod>
+  </url>
+  <url>
+    <loc>https://biodivpond.github.io/partners.html</loc>
+    <lastmod>2026-08-28T19:12:28.952Z</lastmod>
   </url>
   <url>
     <loc>https://biodivpond.github.io/reports.html</loc>
     <lastmod>2026-08-28T19:12:28.952Z</lastmod>
-  </url>
-  <url>
-    <loc>https://biodivpond.github.io/Reports/workshop_26.html</loc>
-    <lastmod>2026-05-24T17:33:24.000Z</lastmod>
   </url>
 </urlset>

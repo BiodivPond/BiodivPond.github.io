@@ -245,3 +245,64 @@ p {
 .quarto-about-solana .about-links {
   margin-top: 0 !important;
 }
+/* ========================================= */
+/* DATASET PAGE COMPONENTS                   */
+/* ========================================= */
+
+/* Summary figures (e.g. number of sites sampled per method) */
+.stat-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.stat-card {
+  flex: 1 1 180px;
+  background-color: #F2F6EF;
+  border-left: 5px solid #4C7D31;
+  border-radius: 4px;
+  padding: 1rem 1.25rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.stat-card .stat-value {
+  display: block;
+  font-size: 2.25rem;
+  font-weight: 700;
+  line-height: 1.1;
+  color: #4C7D31;
+}
+
+.stat-card .stat-label {
+  display: block;
+  margin-top: 0.35rem;
+  font-size: 0.95rem;
+  text-align: left;
+  hyphens: none;
+}
+
+/* Portrait maps should not stretch across the whole card */
+.map-card .map-card-image.map-portrait {
+  max-width: 420px;
+  align-self: center;
+}
+
+/* Sections whose content is still to be added */
+.placeholder {
+  border: 1px dashed #B7C7AB;
+  border-radius: 4px;
+  background-color: #FAFBF9;
+  padding: 0.9rem 1.1rem;
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+  color: #6B7A63;
+  font-style: italic;
+}
+
+.placeholder p {
+  margin-bottom: 0;
+  text-align: left;
+  hyphens: none;
+}

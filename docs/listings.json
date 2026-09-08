@@ -1,14 +1,14 @@
 [
   {
-    "listing": "/natworkshops.html",
-    "items": [
-      "/natworkshops/czechia.html"
-    ]
-  },
-  {
     "listing": "/blogposts.html",
     "items": [
       "/Blog/start.html"
+    ]
+  },
+  {
+    "listing": "/natworkshops.html",
+    "items": [
+      "/natworkshops/czechia.html"
     ]
   },
   {

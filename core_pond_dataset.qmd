@@ -1,0 +1,78 @@
+---
+title: "Core pond dataset"
+about:
+  id: hero-heading
+  template: solana
+  image-shape: rounded
+date: 2026/09/08
+date-format: long
+date-modified: last-modified
+sidebar: false
+---
+
+:::: {#hero-heading}
+
+**Deliverable 4** of the BiodivPond pilot is a curated dataset with harmonised, quality-checked biodiversity records from the core ponds sampled by the active contributors, including both eDNA and acoustic data as well as metadata on habitat conditions and pressures.
+
+This page is the entry point to that dataset. It will gradually grow to hold the map of the sampled pondscapes, an overview of the sampled sites, a summary of the data, and links to the published GBIF datasets and to the accompanying report.
+
+## Sites sampled
+
+A total of **60 core pond sites** were surveyed during the 2026 sampling season. All of them were sampled for environmental DNA (eDNA), and most were additionally covered by standardised traditional sampling and by passive acoustic monitoring (PAM).
+
+::: {.stat-row}
+::: {.stat-card}
+[60]{.stat-value}
+[core pond sites]{.stat-label}
+:::
+::: {.stat-card}
+[60]{.stat-value}
+[sampled by eDNA]{.stat-label}
+:::
+::: {.stat-card}
+[48]{.stat-value}
+[sampled by standardised traditional sampling]{.stat-label}
+:::
+::: {.stat-card}
+[47]{.stat-value}
+[sampled by acoustic monitoring (PAM)]{.stat-label}
+:::
+:::
+
+::: {.map-card}
+::: {.map-card-text}
+### Pondscapes sampled
+The core ponds are grouped into pondscapes distributed across the pilot partner countries. Each marker on the map shows a pondscape in which core ponds were sampled during the 2026 season.
+:::
+::: {.map-card-image .map-portrait}
+<div class="map-wrapper">
+<img src="/Outputs/Maps/Map_pond_sites.png" class="map" alt="Map of the pondscapes with BiodivPond core pond sites sampled in 2026">
+</div>
+:::
+:::
+
+### Overview of the sampled sites
+
+::: {.placeholder}
+A site-by-site overview – pondscape, country, pond characteristics and the sampling methods applied at each site – will be added here.
+:::
+
+## Data summary
+
+::: {.placeholder}
+A summary of the dataset – taxonomic groups covered, numbers of records and detected taxa per method, and the sampling and sequencing effort behind them – will be added here once the analyses of the 2026 season are completed.
+:::
+
+## Data access
+
+::: {.placeholder}
+Links to the published GBIF datasets will be added here once the data are harmonised, quality-checked and published.
+:::
+
+## Report
+
+::: {.placeholder}
+A link to the report accompanying the core pond dataset will be added here.
+:::
+
+::::
