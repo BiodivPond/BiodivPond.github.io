@@ -27,15 +27,15 @@ A total of **60 core pond sites** were surveyed during the 2026 sampling season.
 :::
 ::: {.stat-card}
 [100%]{.stat-value}
-[sampled by eDNA (60 of 60)]{.stat-label}
+[sampled for eDNA (60 of 60)]{.stat-label}
 :::
 ::: {.stat-card}
 [80%]{.stat-value}
-[sampled by standardised traditional sampling (48 of 60)]{.stat-label}
+[monitored using standardised traditional sampling (48 of 60)]{.stat-label}
 :::
 ::: {.stat-card}
 [78%]{.stat-value}
-[sampled by acoustic monitoring (PAM, 47 of 60)]{.stat-label}
+[observed with passive acoustic monitoring (47 of 60)]{.stat-label}
 :::
 :::
 
