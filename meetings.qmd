@@ -45,17 +45,22 @@ writeLines(
 
 ## 📌 Next active contributor meeting 
 
-📅 **Friday September 11th**
+📅 **Friday September 25th**
 
 🕚 **11:00 AM CET**
 
-📖 **Agenda:**     
+📖 **Agenda: Presenation by [ **Xavier Mestdagh** (Luxembourg Institute of Science and Technology)](https://researchportal.list.lu/scientific-community/detail/mestdagh-xavier) on the [NEWTCAM device](https://researchluxembourg.portals.in-part.com/5785edab-261e-40ea-833c-0cef2c3aa0f2)** and pilot operation     
 
 ✉️ **Message [jonas.gaigr@aopk.gov.cz](jonas.gaigr@aopk.gov.cz) for meeting link and agenda proposals**
 
 :::
 
 ## Past meetings
+### Active contributor meeting: updates and state of the pilot
+📅 **Friday September 11th**  
+📖 **Agenda:** updates and state of the pilot, data uploads, call for blog posts, status of communication with the ARU manufacturer
+🎞️ [slides](meetings/slides/BiodivPond_20260911.pptx.pdf)
+
 ### Active contributor meeting: updates and state of the pilot
 📅 **Friday August 28th**  
 📖 **Agenda:** updates and state of the pilot, data uploads, analysis and [GitHub Project](https://github.com/BiodivPond), call for blog posts, data management plan, survey refinement for 2027     
