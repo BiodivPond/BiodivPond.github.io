@@ -1,0 +1,35 @@
+---
+title: "Danish ponds"
+image: "/images/biodivpond_sc2.jpg"
+about:
+  id: hero-heading
+  template: jolla
+  image-shape: rounded
+  image-width: 420px
+date: 2026/01/02
+date-format: long
+date-modified: last-modified
+sidebar: false
+---
+
+::: {#hero-heading}
+As the Danish team for the Biodivpond Pilot project, this year we headed out into the field to sample six core ponds. Luckily, our field campaign took place during spring and summer, the absolute best time of year to be outside in Denmark!  
+
+We selected three ponds in Zealand (the island home to Copenhagen) and three in Jutland (the Danish peninsula connected to continental Europe). The main objective of this sampling campaign was to gather data to compare different biodiversity monitoring techniques for pond biodiversity.  
+
+First, we deployed acoustic recorders to monitor bat, amphibian, and bird activity. We deployed them in late April and plan to keep them out through late October, after which wildlife activity naturally drops off for winter. Unfortunately, one of our recorders was stolen after just two months- it turns out we might have slightly overestimated public trust!  
+
+During the spring, we also monitored water quality and sampled local biodiversity using traditional ecological methods. For our team (mostly lake ecologists used to studying fish, macroinvertebrates, and plankton) this was by far the most exciting phase. It was our first time sampling amphibians!  
+
+We deployed umbrella traps left overnight to safely capture target species, counting and releasing them back into the ponds early the next morning. Alongside these amphibian surveys, we used sweep nets to collect aquatic macroinvertebrates.
+
+We also used eDNA which is a cutting-edge, non-invasive monitoring technique. The real magic happens back in the lab: from just a 500 mL water sample, we can generate a profile of the pond's entire biological community. It’s remarkable how much information that small amount of water holds.  
+
+That’s a wrap on our spring and summer fieldwork! The next step is processing our samples and seeing what the eDNA and sound recorders reveal about Denmark's pond biodiversity.  
+
+Thanks for reading this post!  
+
+*Tuba Bucak (Danish Biodivpond Team)*
+
+![](/Materials/Charts/biodivpond_scope_new.drawio.png)
+:::
