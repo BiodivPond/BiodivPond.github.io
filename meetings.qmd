@@ -58,7 +58,7 @@ writeLines(
 ## Past meetings
 ### Active contributor meeting: updates and state of the pilot
 📅 **Friday September 11th**  
-📖 **Agenda:** updates and state of the pilot, data uploads, call for blog posts, status of communication with the ARU manufacturer
+📖 **Agenda:** updates and state of the pilot, data uploads, call for blog posts, status of communication with the ARU manufacturer  
 🎞️ [slides](meetings/slides/BiodivPond_20260911.pptx.pdf)
 
 ### Active contributor meeting: updates and state of the pilot
