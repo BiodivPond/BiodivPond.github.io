@@ -1,5 +1,5 @@
 ---
-title: "Monitoring the Danish ponds "
+title: "Monitoring the Danish ponds in 2026 🇩🇰"
 image: "/images/blog_post_images/core_dk_6.jpg"
 about:
   id: hero-heading
