@@ -17,7 +17,7 @@ As the Danish team for the Biodivpond Pilot project, this year we headed out int
 
 We selected three ponds in Zealand (the island home to Copenhagen) and three in Jutland (the Danish peninsula connected to continental Europe). The main objective of this sampling campaign was to gather data to compare different biodiversity monitoring techniques for pond biodiversity.  
 
-First, we deployed acoustic recorders to monitor bat, amphibian, and bird activity. We deployed them in late April and plan to keep them out through late October, after which wildlife activity naturally drops off for winter. Unfortunately, one of our recorders was stolen after just two months- it turns out we might have slightly overestimated public trust!  
+First, we deployed acoustic recorders to monitor bat, amphibian, and bird activity. We deployed them in late April and plan to keep them out through late October, after which wildlife activity naturally drops off for winter. Unfortunately, one of our recorders was stolen after just two months - it turns out we might have slightly overestimated public trust!  
 
 ![](/images/blog_post_images/core_dk_1.jpg)  
 *RIP to our missing recorder. Gone, but not forgotten*  
