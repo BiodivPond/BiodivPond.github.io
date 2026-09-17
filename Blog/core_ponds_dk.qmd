@@ -6,7 +6,7 @@ about:
   template: jolla
   image-shape: rounded
   image-width: 420px
-date: 2026/01/02
+date: 2026/09/16
 date-format: long
 date-modified: last-modified
 sidebar: false
