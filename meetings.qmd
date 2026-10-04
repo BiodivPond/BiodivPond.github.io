@@ -45,11 +45,11 @@ writeLines(
 
 ## 📌 Next active contributor meeting 
 
-📅 **Friday September 25th**
+📅 **Friday October 9th**
 
 🕚 **11:00 AM CET**
 
-📖 **Agenda: Presenation by [ **Xavier Mestdagh** (Luxembourg Institute of Science and Technology)](https://researchportal.list.lu/scientific-community/detail/mestdagh-xavier) on the [NEWTCAM device](https://researchluxembourg.portals.in-part.com/5785edab-261e-40ea-833c-0cef2c3aa0f2)** and pilot operation     
+📖 **Agenda: criteria for stakeholder pond selection, proposal for the "BiodivPond Network" and "Join the Network" pages, and discussions on the scope and length of the online workshop on how to get started with Git**      
 
 ✉️ **Message [jonas.gaigr@aopk.gov.cz](jonas.gaigr@aopk.gov.cz) for meeting link and agenda proposals**
 
