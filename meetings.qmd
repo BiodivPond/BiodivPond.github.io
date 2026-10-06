@@ -59,7 +59,7 @@ writeLines(
 ### NETWCAM & NAMPHIMO presentation, Active contributor meeting
 📅 **Friday September 25th**  
 📖 **Agenda:** presentation of [NEWTCAM](https://wildlife.org/wild-cam-underwater-newtcam-identifies-species-using-ai/) and [NAMPHIMO project](https://researchportal.list.lu/projects/detail/namphimo) by [Xavier Mestdagh (LIST)](https://researchportal.list.lu/scientific-community/detail/mestdagh-xavier), 2027 pond selection process, collaboration with relevant projects, publishing the sampling protocol  
-🎞️ NEWTCAM & NAMPHIMO slides (TBC)  
+🎞️ [NEWTCAM & NAMPHIMO slides](meetings/slides/BiodivPond_20260925_NAMPHIMO_NEWTCAM.pdf)  
 🎞️ [meeting slides](meetings/slides/BiodivPond_20260925.pptx.pdf)
 
 ### Active contributor meeting: updates and state of the pilot
