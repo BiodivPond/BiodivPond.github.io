@@ -45,17 +45,21 @@ writeLines(
 
 ## 📌 Next active contributor meeting 
 
-📅 **Friday October 9th**
+📅 **Friday October 23rd**
 
 🕚 **11:00 AM CET**
 
-📖 **Agenda: criteria for stakeholder pond selection, proposal for the "BiodivPond Network" and "Join the Network" pages, and discussions on the scope and length of the online workshop on how to get started with Git**      
+📖 **Agenda: 2027 sampling season planning**      
 
 ✉️ **Message [jonas.gaigr@aopk.gov.cz](jonas.gaigr@aopk.gov.cz) for meeting link and agenda proposals**
 
 :::
 
 ## Past meetings
+📅 **Friday September October 9th**  
+📖 **Agenda:** criteria for stakeholder pond selection, proposal for the "BiodivPond Network" and "Join the Network" pages, and discussions on the scope and length of the online workshop on how to get started with Git   
+🎞️ [meeting slides](meetings/slides/BiodivPond_20261009.pptx.pdf)
+
 ### NETWCAM & NAMPHIMO presentation, Active contributor meeting
 📅 **Friday September 25th**  
 📖 **Agenda:** presentation of [NEWTCAM](https://wildlife.org/wild-cam-underwater-newtcam-identifies-species-using-ai/) and [NAMPHIMO project](https://researchportal.list.lu/projects/detail/namphimo) by [Xavier Mestdagh (LIST)](https://researchportal.list.lu/scientific-community/detail/mestdagh-xavier), 2027 pond selection process, collaboration with relevant projects, publishing the sampling protocol  
