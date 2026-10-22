@@ -22,7 +22,7 @@ sidebar: false
 
 BiodivPond is a pilot monitoring initiative supported by Biodiversa+ for the period 2026 to 2028. The full title is "Biodiversity monitoring of ponds: evaluating the applicability of novel methods and identification of obstacles to wide use".
 
-The objectives of the BiodivPond pilot are:
+[The objectives of the BiodivPond pilot are:]{#objectives}
 
 1) **Establish a transnational pond monitoring network across Europe:** Each active
 contributor will sample a minimum of 6 ponds (60 in total) during late spring of 2026 for

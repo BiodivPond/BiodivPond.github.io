@@ -26,7 +26,10 @@ website:
           
       - href: outcomes.qmd
         text: Outcomes
-        
+
+      - href: join.qmd
+        text: Join the Network
+
       - href: meetings.qmd
         text: Meetings
       
