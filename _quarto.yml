@@ -27,9 +27,6 @@ website:
       - href: outcomes.qmd
         text: Outcomes
 
-      - href: join.qmd
-        text: Join the Network
-
       - href: meetings.qmd
         text: Meetings
       
@@ -41,6 +38,9 @@ website:
             text: Blog posts
           - href: reports.qmd
             text: Meeting reports
+
+      - href: join.qmd
+        text: Join the Network
           
     right:
       - href: https://aopk.gov.cz/web/en

@@ -65,7 +65,7 @@ main li,
 
 :::: {#hero-heading}
 
-BiodivPond is building a transnational network of pond monitoring across Europe and the Middle East. We invite **national and regional agencies and NGOs** that monitor ponds, or manage sites with ponds, to connect their sites and monitoring programmes to the network.
+BiodivPond is building a transnational network of pond monitoring across Europe and the Middle East. We invite **national and regional agencies, scientific institutions, universities, and NGOs** that monitor ponds, or manage sites with ponds, to connect their sites and monitoring programmes to the network.
 
 You do not need to change your existing methods to join. Choose the [tier](#tiers) that fits each of your sites or programmes: from registering them, through reporting to a common minimum dataset, to adopting the shared BiodivPond protocols.
 
