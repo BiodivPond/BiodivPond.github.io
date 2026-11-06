@@ -65,7 +65,7 @@ main li,
 
 :::: {#hero-heading}
 
-BiodivPond is building a transnational network of pond monitoring across Europe and the Middle East. We invite **national and regional agencies, scientific institutions, universities, and NGOs** that monitor ponds, or manage sites with ponds, to connect their sites and monitoring programmes to the network.
+BiodivPond is building a transnational network of pond monitoring across Europe. We invite **national and regional agencies, scientific institutions, universities, and NGOs** that monitor ponds, or manage sites with ponds, to connect their sites and monitoring programmes to the network.
 
 You do not need to change your existing methods to join. Choose the [tier](#tiers) that fits each of your sites or programmes: from registering them, through reporting to a common minimum dataset, to adopting the shared BiodivPond protocols.
 
@@ -94,8 +94,8 @@ In the 2026 season, the pilot partners sampled [60 core ponds](core_pond_dataset
 
 ::: {.map-card}
 ::: {.map-card-text}
-### Pondscapes sampled in 2026
-Each marker on the map shows a pondscape in which core ponds were sampled during the 2026 season.
+### Pondscapes sampled since 2026
+Each marker on the map shows a pondscape in which core ponds were sampled since the 2026 season.
 :::
 ::: {.map-card-image .map-portrait}
 <div class="map-wrapper">
@@ -153,7 +153,7 @@ The minimum dataset covers pond-level descriptors and species occurrences. The s
 
 - pond ID, location and country
 - sampling date, sampling method and effort
-- taxon (genus, species), matched to the GBIF taxonomic backbone
+- taxonomic scope (genus, species), matched to the Catalogue of Life Extended Release
 - life stage and abundance, where recorded
 - basic pond characteristics, based on the BiodivPond core pond survey form, which will be shared
 :::
