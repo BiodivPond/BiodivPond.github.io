@@ -45,26 +45,34 @@ writeLines(
 
 ## 📌 Next active contributor meeting 
 
-📅 **Friday November 13th**
+📅 **December 4th**
 
-🕚 **9:00 AM CET** (this meeting is scheduled for 3,5 hours including breaks)
+🕚 **11:00 AM CET**
 
-📖 **Agenda: 2027 sampling season planning**      
+📖 **Agenda:** final draft of the stakeholder infosheet and the 2027 guidelines; plan to publish the umbrella trap results on [GBIF](https://www.gbif.org/) using the [Humboldt extension](https://eco.tdwg.org/); how to start with the analysis - call for analysis leaders
 
 ✉️ **Message [jonas.gaigr@aopk.gov.cz](jonas.gaigr@aopk.gov.cz) for meeting link and agenda proposals**
 
 :::
 
 ## Past meetings
-📅 **Friday September November 9th**  
-📖 **Agenda:** Call for acoustic sample annotators, 2027 sampling season planning   
-🎞️ [meeting slides](meetings/slides/BiodivPond_20261109.pptx.pdf)
+📅 **Friday November 20th**  
+📖 **Agenda:** acoustic data upload (due November 18th), stakeholder infosheet review, decision log for 2027, next steps on the initial stakeholder toolbox (infosheet, guidelines, form), species lists review for the GBIF upload of traditional sampling data, feedback from the EPCN meeting and sustainability of BiodivPond  
+🎞️ [meeting slides](meetings/slides/BiodivPond-20261120.pdf)  
 
-📅 **Friday September October 23rd**  
+📅 **Friday November 13th**  
+📖 **Agenda:** seven decisions on the 2027 stakeholder pond sampling - ponds per partner, deadlines and exceptions, who samples, pond selection sequence, stratification, Q1 2027 milestones and joint online training for national coordinators  
+🎞️ [workshop slides](meetings/slides/BiodivPond-workshop_20261113.pdf)  
+
+📅 **Friday November 6th**  
+📖 **Agenda:** Call for acoustic sample annotators, 2027 sampling season planning   
+🎞️ [meeting slides](meetings/slides/BiodivPond_20261106.pptx.pdf)
+
+📅 **Friday October 23rd**  
 📖 **Agenda:** Acoustic upload timeline, 2027 sampling season planning   
 🎞️ [meeting slides](meetings/slides/BiodivPond_20261023.pptx.pdf)
 
-📅 **Friday September October 9th**  
+📅 **Friday October 9th**  
 📖 **Agenda:** criteria for stakeholder pond selection, proposal for the "BiodivPond Network" and "Join the Network" pages, and discussions on the scope and length of the online workshop on how to get started with Git   
 🎞️ [meeting slides](meetings/slides/BiodivPond_20261009.pptx.pdf)
 
